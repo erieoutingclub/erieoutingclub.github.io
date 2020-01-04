@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+    <title>{{ site.title }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  
+    <!-- Custom styles for this template -->
+    <link href="css/scrolling-nav.css" rel="stylesheet">
+  
+<body>
+    {% include navbarpost.html %}
+
+<center>{{ content}}
+
+<ul class="myposts"style="list-style-type:none">
+    {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{ post.title}}</a>
+        <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
+    {% endfor %}
+    </ul>
+</center>
+</body>
+</html>
