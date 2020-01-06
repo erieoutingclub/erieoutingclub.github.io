@@ -2,7 +2,7 @@
 layout: post
 title:  "The Hike on the Side Walk Trail at the Pennisula"
 categories: Hiking
-permalink: /post2/
+permalink: /post01-05/
 ---
 
 # The Hike on the Side Walk Trail at the Pennisula

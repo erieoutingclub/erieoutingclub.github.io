@@ -2,7 +2,7 @@
 layout: post
 title:  "East Side Overland Trail"
 categories: mountain biking
-permalink: /post1/
+permalink: /post01-02/
 ---
 
 # The Eastside Overland Trail
