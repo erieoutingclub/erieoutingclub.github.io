@@ -12,7 +12,7 @@ permalink: /post2/
 **The Outing Club had a hike at the Pennsula on the first Sunday of 2020.
 We met at the Lighthouse Parking lot and started on the side walk trail.
 But over half accross we encountered a problem.The trail was flooded. So
-we had through cut  throught the wood to the next availabe trail. We also notice
+we had through cut  throught the woods to the next availabe trail. We also notice
 that beaver were cutting down trees in the area.**
 
 ![hiking on the sidewalk trail](https://i.imgur.com/8Sc0SARl.jpg)
