@@ -3,6 +3,35 @@
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <style>
+             /* google calendar workaround*/
+          @media (max-width: 550px) {
+   .big-container {
+       display: none;
+   }
+}
+@media (min-width: 550px) {
+   .small-container {
+       display: none;
+   }
+}
+/* Responsive iFrame */
+.responsive-iframe-container {
+   position: relative;
+   padding-bottom: 56.25%;
+   padding-top: 30px;
+   height: 0;
+   overflow: hidden;
+}
+.responsive-iframe-container iframe,   
+.vresponsive-iframe-container object,  
+.vresponsive-iframe-container embed {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
          /* begin normal css*/
         * {
           box-sizing: border-box;
@@ -218,10 +247,15 @@
           </ul>
   </div>
         <div class="col-6">
-          <h2>Erie Outing Club Contact Form</h2>
-         <!-- www.123formbuilder.com script begins here -->
-<script type="text/javascript" defer src="//www.123formbuilder.com/embed/1831479.js" data-role="form" data-default-width="650px"></script>
-<!-- www.123formbuilder.com script ends here -->
+            <h2>Erie Outing Club Calendar</h2>
+          <div class="responsive-iframe-container big-container">
+            <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZXJpZW91dGluZ2NsdWJAZ21haWwuY29t&amp;color=%234285F4" style="border-width:0" width="800" height="600"
+              frameborder="0" scrolling="no"></iframe>
+          </div>
+          <div class="responsive-iframe-container small-container">
+            <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZXJpZW91dGluZ2NsdWJAZ21haWwuY29t&amp;color=%234285F4&amp;mode=AGENDA" style="border-width:0"
+              width="600" height="600" frameborder="0" scrolling="no"></iframe>
+          </div> 
         </div>
         <div class="col-3 right">
     <div class="aside">
@@ -253,7 +287,9 @@
         <a href="https://jekyllrb.com/">
           <img src="https://i.imgur.com/IexfirQt.png" alt="HTML tutorial" ">
   </div>
-       <script>
+      
+      
+      <script>
       let mainNav = document.getElementById('js-menu');
       let navBarToggle = document.getElementById('js-navbar-toggle');
       

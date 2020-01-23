@@ -1,26 +1,241 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+             /* google calendar workaround*/
+          @media (max-width: 550px) {
+   .big-container {
+       display: none;
+   }
+}
+@media (min-width: 550px) {
+   .small-container {
+       display: none;
+   }
+}
+/* Responsive iFrame */
+.responsive-iframe-container {
+   position: relative;
+   padding-bottom: 56.25%;
+   padding-top: 30px;
+   height: 0;
+   overflow: hidden;
+}
+.responsive-iframe-container iframe,   
+.vresponsive-iframe-container object,  
+.vresponsive-iframe-container embed {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
 
-    <title>{{ site.title }}</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  
-    <!-- Custom styles for this template -->
-    <link href="css/scrolling-nav.css" rel="stylesheet">
-  
-<body>
-    {% include navbarpost.html %}
-
-<center>{{ content}}
-
-<ul class="myposts"style="list-style-type:none">
-    {% for post in site.posts %}
-        <li style="font-size:x-large;"><a href="{{ post.url }}">{{ post.title}}</a>
-        <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </li>
-    {% endfor %}
-    </ul>
-</center>
-</body>
-</html>
+         /* begin normal css*/
+        * {
+          box-sizing: border-box;
+          padding: 0;
+          margin: 0;
+        }
+          body {
+            font-family: 'Josefin Sans', sans-serif;
+        }
+        
+        .blogposts {
+          font-size: 25px;
+        }
+          .navbar {
+            font-size: 18px;
+            background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf   100%);
+            border: 1px solid rgba(0, 0, 0, 0.2);
+            padding-bottom: 10px;
+        }
+        .main-nav {
+            list-style-type: none;
+        }
+        .nav-links,
+        .logo {
+            text-decoration: none;
+            color: rgba(255, 255, 255, 0.7);
+        }
+          
+          .main-nav li {
+            text-align: center;
+            margin: 15px auto;
+        }
+        .logo {
+            display: inline-block;
+            font-size: 22px;
+            margin-top: 10px;
+            margin-left: 20px;
+        }
+          
+          .navbar-toggle {
+            position: absolute;
+            top: 10px;
+            right: 20px;
+            cursor: pointer; 
+            color: rgba(255,255,255,0.8);
+          }
+          
+          .main-nav {
+            list-style-type: none;
+            display: none;
+        }
+          
+          .active {
+          display: block;
+        }
+          
+          @media screen and (min-width: 768px) {
+            .navbar {
+                display: flex;
+                justify-content: space-between;
+                padding-bottom: 0;
+                height: 70px;
+                align-items: center;
+            }
+            .main-nav {
+                display: flex;
+                margin-right: 30px;
+                flex-direction: row;
+                justify-content: flex-end;
+            }
+            .main-nav li {
+                margin: 0;
+            }
+            .nav-links {
+                margin-left: 40px;
+            }
+            .logo {
+                margin-top: 0;
+            }
+           .navbar-toggle {
+               display: none;
+            }
+           /* .logo:hover,
+            .nav-links:hover {
+                color: rgba(255, 255, 255, 1);*/
+            }
+          
+        /* Css for normal page*/
+        
+        .row::after {
+          content: "";
+          clear: both;
+          display: table;
+        }
+        
+        [class*="col-"] {
+          float: left;
+          padding: 15px;
+        }
+        
+        html {
+          font-family: "Lucida Sans", sans-serif;
+        }
+        
+        .header {
+          background-color: #9933cc;
+          color: #ffffff;
+          padding: 15px;
+        }
+        
+        .menu ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+        }
+        
+        .menu li {
+          padding: 8px;
+          margin-bottom: 7px;
+          background-color: #33b5e5;
+          color: #ffffff;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        }
+        
+        .menu li:hover {
+          background-color: #0099cc;
+        }
+        
+        .aside {
+          background-color: #33b5e5;
+          padding: 15px;
+          color: #ffffff;
+          text-align: center;
+          font-size: 14px;
+          box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+        }
+        
+        .footer {
+          background-color: #0099cc;
+          color: #ffffff;
+          text-align: center;
+          font-size: 12px;
+          padding: 15px;
+        }
+        
+        /* For mobile phones: */
+        [class*="col-"] {
+          width: 100%;
+        }
+        
+        @media only screen and (min-width: 768px) {
+          /* For desktop: */
+          .col-1 {width: 8.33%;}
+          .col-2 {width: 16.66%;}
+          .col-3 {width: 25%;}
+          .col-4 {width: 33.33%;}
+          .col-5 {width: 41.66%;}
+          .col-6 {width: 50%;}
+          .col-7 {width: 58.33%;}
+          .col-8 {width: 66.66%;}
+          .col-9 {width: 75%;}
+          .col-10 {width: 83.33%;}
+          .col-11 {width: 91.66%;}
+          .col-12 {width: 100%;}
+        }
+          
+          .responsive {
+          width: 100%;
+          height: auto;
+        }
+        </style>
+        </head>
+    <body>
+        {% include navbar.html %}
+        
+      <div class="row">
+        {% include upcomingevents.html %}
+        <div class="col-6">
+            <h1>Erie Outing Club Blog</h1>
+            <br><br>
+            <ul>
+              {% for post in site.posts %}
+                <li>
+                 <h2> <a href="{{ post.url }}">{{ post.title }}</a></h2>
+                  <br><br>
+            
+                </li>
+              {% endfor %}
+            </ul>
+            <img src="https://i.imgur.com/xzWYQHol.jpg" alt="HTML5 Icon" class="responsive">
+        </div>
+        {% include blogposts.html %}
+         </div>
+         {% include footer.html %}
+      
+      
+      <script>
+      let mainNav = document.getElementById('js-menu');
+      let navBarToggle = document.getElementById('js-navbar-toggle');
+      
+      navBarToggle.addEventListener('click', function () {
+          
+          mainNav.classList.toggle('active');
+      });
+      </script>
+      </body>
+      </html>

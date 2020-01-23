@@ -1,7 +1,7 @@
 ---
 layout: blog
 title:  "Erie Outing Club Blog"
-
+permalink: /blog
 ---
 
 
