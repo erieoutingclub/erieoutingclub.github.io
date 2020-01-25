@@ -177,102 +177,17 @@
         <script src="https://kit.fontawesome.com/81810279c2.js" crossorigin="anonymous"></script>
         </head>
     <body>
-        <!-- Navigation -->
-<nav class="navbar">
-  <span class="navbar-toggle" id="js-navbar-toggle">
-   <i class="fas fa-bars"></i>
-   </span>
-  <a href="https://www.erieoutingclub.org/" class="logo">Erie Outing Club</a>
-  <ul class="main-nav" id="js-menu">
-      <li>
-          <a href="https://www.erieoutingclub.org/" class="nav-links">Home</a>
-      </li>
-      <li>
-        <a href="/calendar" class="nav-links">Calendar</a>
-    </li>
-      <li>
-          <a href="/membershipmeeting" class="nav-links">Membership Meeting</a>
-      </li>
-      <li>
-          <a href="/membershipapp" class="nav-links">Membership App</a>
-      </li>
-      <li>
-          <a href="/blog" class="nav-links">Blog</a>
-      </li>
-      <li>
-          <a href="/contact" class="nav-links">Contact Us</a>
-      </li>
-  </ul>
-</nav>
+        {% include navbar.html %}
         
       <div class="row">
-        <div class="col-3 menu">
-    <h2>Upcoming Events</h2>
-     <ul>
-            <li>Jan 5 Hike at the Pennisula, Lighthouse Parking log at 1:30 p.m</li>
-            <li>Jan 12 Hike Snowshoe at Scott Park at 1:30 p.m</li>
-            <li>Jan 16-19 Allegany State Park Camp and Ski</li>
-            <li>Jan 26 Hike at Howard Eaton Reservoir</li>
-            <li>Feb 2  Hike on theTrolley Trail</li>
-            <li>Feb   Hike on the East Side Overland Trail</li></li>
-          </ul>
-  </div>
+        {% include upcomingevents.html %}
         <div class="col-6">
-            <h1 id="erie-outing-club-meetings-members-and-nonmembers-welcome">Erie Outing Club Meetings-Members and Nonmembers Welcome<br /><br /></h1>
-
-<h2 id="event-planning-meeting"><strong>Event Planning Meeting</strong><br /></h2>
-
-<h2 id="the-event-planning-meeting-will-be-sunday-march-22-from-100-pm-to-400-pm-at-the-unitarian-universalist-church">The Event Planning Meeting will be Sunday, March 22 from 1:00 p.m to 4:00 p.m at the Unitarian Universalist Church<br /><br /></h2>
-
-<h2 id="erie-outing-club-membership-meeting"><strong>Erie Outing Club Membership Meeting</strong><br /></h2>
-
-<h2 id="next-meeting-is-wed-april-152020">Next meeting is Wed April 15,2020<br /></h2>
-
-<h2 id="700-pm-at-the-unitarian-universalist-church">7:00 PM at the Unitarian Universalist Church.<br /></h2>
-
-<h2 id="monthly-meeting-are-the-third-wednesday-of-the-month">Monthly Meeting are the third Wednesday of the month.<br /><br /></h2>
-
-<h3 id="church-address">Church Address<br /><br /></h3>
-<h3 id="unitarian-universalist-church">Unitarian Universalist Church</h3>
-<h3 id="7180-perry-highway">7180 Perry Highway</h3>
-<h3 id="erie-pa-16509">Erie, PA 16509<br /></h3>
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-80.06119251251222%2C42.06895190436966%2C-80.03286838531496%2C42.08362069610884&amp;layer=cyclemap&amp;marker=42.076286724054135%2C-80.04703044891357" style="border: 1px solid black"></iframe>
-<p><br /><small><a href="https://www.openstreetmap.org/?mlat=42.0763&amp;mlon=-80.0470#map=16/42.0763/-80.0470&amp;layers=CN">View Larger Map</a></small></p>
-
-
+            {{ content }}
            
         </div>
-        <div class="col-3 right">
-    <div class="aside">
-      <h2>Erie Outing Club Blog Posts</h2>
-      <br>
-      <br>
-      <ul>
-        
-          <li>
-            <a class="blogposts" href="/post01-05/">The Hike on the Side Walk Trail at the Pennisula</a>
-            <br>
-            <br>
-          </li>
-        
-          <li>
-            <a class="blogposts" href="/post01-02/">East Side Overland Trail</a>
-            <br>
-            <br>
-          </li>
-        
-      </ul>
-    </div>
-  </div>
+        {% include blogposts.html %}
          </div>
-          <!-- Footer -->
- <div class="footer">
-  <p class="m-0 text-center text-white">Copyright &copy; Erie Outing Club 2020. This site is design and maintained by Erie Outing Club Members.</p>
-        <p style="color:white;">backend by Jekyll</p>
-        <a href="https://jekyllrb.com/">
-          <img src="https://i.imgur.com/IexfirQt.png" alt="HTML tutorial" ">
-  </div>
+         {% include footer.html %}
       
       
       <script>
