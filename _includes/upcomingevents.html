@@ -1,9 +1,8 @@
 <div class="col-3 menu">
   <h2>Upcoming Events</h2>
   <p>Click on Calendar for more info.<p>
-      <!--
-  {{ site.time | date: "%m" }}<br>
-   Write your comments here -->
+
+      Write your comments here -->
       {% assign variable1 = site.time | date: "%m" %}
 
       {% for person in site.data.events %}
@@ -16,5 +15,5 @@
       </ul>
       {% endif %}
       {% endfor %}
-
 </div>
+ <!--{{ site.time | date: "%m" }}<br>
