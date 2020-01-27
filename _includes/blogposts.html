@@ -1,16 +1,16 @@
 <div class="col-3 right">
-    <div class="aside">
-      <h2>Erie Outing Club Blog Posts</h2>
-      <br>
-      <br>
-      <ul>
-        {% for post in site.posts %}
-          <li>
-            <a class="blogposts" href="{{ post.url }}">{{ post.title }}</a>
-            <br>
-            <br>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
+  <div class="aside">
+    <h2>Erie Outing Club Blog Posts</h2>
+    <br>
+    <br>
+    <ul>
+      {% for post in site.posts %}
+      <li>
+        <a class="blogposts" href="{{ post.url }}">{{ post.title }}</a>
+        <br>
+        <br>
+      </li>
+      {% endfor %}
+    </ul>
   </div>
+</div>
