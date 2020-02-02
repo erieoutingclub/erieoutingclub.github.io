@@ -3,8 +3,10 @@
   {% assign variable1 = site.time | date: "%m" %}
   <ul>
     {% for person in site.data.events %}
-    {% if person.month == variable1 %}
-
+     {% if person.month == variable1 %}
+    {{ variable1 }}<br>
+    {{ person.month}}<br>
+    {{ site.time }}
     <li style="list-style: none; font-size: 20px;">
       {{ person.date}}, {{ person.event}}, {{ person.time}}<br>
     </li>
