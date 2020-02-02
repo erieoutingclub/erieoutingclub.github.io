@@ -1,13 +1,11 @@
 <div class="col-3 menu">
   <h2>Upcoming Events</h2>
+  <P>Click on Calendar for more info</P>
   {% assign variable1 = site.time | date: "%m" %}
   <ul>
     {% for person in site.data.events %}
      {% if person.month == variable1 %}
-    {{ variable1 }}<br>
-    {{ person.month}}<br>
-    {{ site.time }}
-    <li style="list-style: none; font-size: 20px;">
+     <li style="list-style: none; font-size: 20px;">
       {{ person.date}}, {{ person.event}}, {{ person.time}}<br>
     </li>
     {% endif %}
