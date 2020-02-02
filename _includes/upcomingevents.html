@@ -1,6 +1,6 @@
 <div class="col-3 menu">
   <h2>Upcoming Events</h2>
-  <P>Click on Calendar for more info</P>
+  <p>Click on Calendar for more info</p>
   {% assign variable1 = site.time | date: "%m" %}
   <ul>
     {% for person in site.data.events %}
@@ -11,4 +11,8 @@
     {% endif %}
     {% endfor %}
   </ul>
+  <p>site.time = </p>{{ site.time}}<br>
+  <p> month site.time = </p>{{ site.time | date: "%m"}}<br>
+  <p>now = </p>{{  "now" | date: "%Y-%m-%d %H:%M"}}
+  <p> now month = </p>{{  "now" | date: "%m"}}
 </div>
