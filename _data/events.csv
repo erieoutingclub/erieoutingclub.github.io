@@ -1,20 +1,20 @@
 month,event,date,time,location
-00,First Day Hike at Asbury Woods,01/01/2020 , 12:00 PM,"Sara's parking lot by Presque Isle State Park, 301 Peninsula Dr"
-00,Kayak @ PI Vista #3,01/01/2020, 10:00 AM,01/01/2020
-00,Hike,01/01/2020,03:00 PM, 03:00 PM
+00,First Day Hike at Asbury Woods,"01/01/2020 "," 12:00 PM","Sara's parking lot by Presque Isle State Park, 301 Peninsula Dr"
+00,Kayak @ PI Vista #3,01/01/2020," 10:00 AM",01/01/2020
+00,Hike,01/01/2020,03:00 PM," 03:00 PM"
 00,Ice skate Erie Ice Rink,01/03/2020,03:00 PM,01/03/2020 03:00 PM
-00,Hike/Ski/Snowshoe,01/04/2020 ,02:30 PM,Flo Fabrizio Ice Center: 38th & Cherry: Erie PA
+00,Hike/Ski/Snowshoe,"01/04/2020 ",02:30 PM,Flo Fabrizio Ice Center: 38th & Cherry: Erie PA
 00,Hike Frontier Park,01/05/2020,03:30 PM,Lighthouse Parking Lot @ Presque Isle SP
 00,EOC lunch Underdog BBQ,01/06/2020,11:30 AM,"Frontier Park, 1501 W 6th St, Erie, PA 16505"
 00,Hike @ Asbury Woods,01/06/2020,01:00 PM,
 00,Hike/ Ski/ Snowshoe,01/10/2020,12:00 PM,"Asbury Woods, 4105 Asbury Rd, Erie, PA 16506"
 00,Hike Scott Park (with after hike gathering- please RSVP),01/12/2020,03:30 PM,BYDAY=SU
-00,Hike Wintergreen Gorge 1.2 miles (2.4 total),01/12/2020 ,01:30 PM,
-00,EOC lunch Erie Pub & Pie,01/13/2020 ,10:30 AM,"3399 Cooper Rd, Erie, PA 16510"
+00,Hike Wintergreen Gorge 1.2 miles (2.4 total),"01/12/2020 ",01:30 PM,
+00,EOC lunch Erie Pub & Pie,"01/13/2020 ",10:30 AM,"3399 Cooper Rd, Erie, PA 16510"
 00,Hike Land O' Lakes Trail,01/13/2020,12:00 PM,Erie Brewing Company Pub & Pie: 6008 Knowledge Pkwy (Rt 430 exit) 16510
 01,Allegany State Park Camp and Ski,01/15/2020,10:00 PM,"Miller Station Road, Miller Station Rd, Cambridge Springs, PA 16403"
-01,Hike/ Ski/ Snowshoe,01/16/2020 ,12:00 AM,"Summit loop, Allegany State Park: Salamanca New York"
-01,Lunch Chopstix,01/18/2020, 3:30 PM,"Allegany State Park, Salamanca, NY 14779"
+01,Hike/ Ski/ Snowshoe,"01/16/2020 ",12:00 AM,"Summit loop, Allegany State Park: Salamanca New York"
+01,Lunch Chopstix,01/18/2020," 3:30 PM","Allegany State Park, Salamanca, NY 14779"
 01,Hike Land O' Lakes State Game Lands off Miller Station Road,01/20/2020,01:00 PM,
 01,Presque Isle Snow Day,01/24/2020,03:30 PM,State Game Lands Miller Station Road Cambridge Springs
 01,Hike/ Ski/ Snowshoe Eaton Reservoir   3.3 mile loop,01/25/2020,02:00 PM,"Presque Isle State Park, 301 Peninsula Dr, Erie, PA 16505, USA"
@@ -26,13 +26,7 @@ month,event,date,time,location
 02,Winter Festival LEAF,02/09/2020,12:00 AM,"Asbury Woods, 4105 Asbury Rd, Erie, PA 16506"
 02,Full Moon Ski/hike @ PI,02/09/2020,03:00 PM,"Lake Erie Arboretum at Frontier (LEAF), 1501 W 6th St, Erie, PA 16505, USA"
 02,Hike/ Ski/ Snowshoe @ Presque Isle,02/09/2020,08:30 PM,Lighthouse parking area at Presque Isle SP
-02,EOC tech meeting,02/16/2020 ,03:30 PM,"Rotary Pavilion, Presque Isle SP"
+02,EOC tech meeting,"02/16/2020 ",03:30 PM,"Rotary Pavilion, Presque Isle SP"
 02,Cherry Pie Hike Ft LeBouef Trail: Waterford 3.5 miles,02/20/2020,07:30 PM,"3929 W 38th St, Erie, PA 16506"
-02,Hike/ Ski/ Snowshoe Pleasant Ridge,02/22/2020,04:00 PM,"Fort LeBoeuf Historical Museum, 55 High St, Waterford, PA 16441"
-02,Potluck & Planning Meeting- in place of monthly meeting Wednesday 3/18.,02/23/2020,03:30 PM,"Pleasant Ridge Park, 8271 Barker Road, (off Route 20): Girard, PA 16417"
-03,Hike Laurel Highlands Trail,03/22/2020 ,04:00 PM,"Unitarian Universalist Congregation of Erie, 7180 Perry Hwy, Erie, PA 16509.  State St exit from I-90, heading north."
-03,EOC meeting,04/10/2020,12:00 AM,"Ohiopyle State Park, 124 Main St, Ohiopyle, PA 15470"
-03,meeting and lagoon kayak,04/15/2020,09:00 PM,"Unitarian Universalist Congregation of Erie, 7180 Perry Hwy, Erie, PA 16509, USA"
-03,meeting and bike ride,06/17/2020,08:30 PM,"Lagoon Boat Ramp, Thompson Dr, Presque Isle State Park,  Erie, PA 16507, USA"
-03,Picnic,07/15/2020,08:30 PM,"Rotary Pavilion, Presque Isle State Park, Erie, PA 16507, USA"
-03,Fall Camping at ASP,08/23/2020,01:00 PM, 04:00 PM
+02,Hike/ Ski/ Snowshoe Pleasant Ridge,02/22/2020,04:00 PM,"Pleasant Ridge Park, Fairview"
+03,Potluck & Planning Meeting- in place of monthly meeting Wednesday 3/18/2020,01:30 PM,"Unitarian Universalist Congregation of Erie, 7180 Perry Hwy, Erie, PA 16509"
