@@ -16,7 +16,7 @@ permalink: /membershipmeeting
 
   
 
-## The Event Planning Meeting will be Sunday, March 22 from 1:00 p.m to 4:00 p.m at the Unitarian Universalist Church<br><br>   
+## The Event Planning Meeting & Potluck meal- (bring a food dish to share). This meeting will be Sunday, March 22 from 1:00 p.m to 4:00 p.m at the Unitarian Universalist Church<br><br>   
 
 
   
