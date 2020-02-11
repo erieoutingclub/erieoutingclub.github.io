@@ -21,4 +21,4 @@ permalink: /post02-09/
 ![hiking on the sidewalk trail](https://i.imgur.com/vEu5jW0l.jpg).<br> 
 
 
-![hiking on the sidewalk trail](https://i.imgur.com/vEu5jW0l.jpg)
+![hiking on the sidewalk trail](https://i.imgur.com/qGlSwfol.jpg)
