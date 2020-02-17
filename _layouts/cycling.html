@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Erie Outdoors Club
+specializing in Cycling, Backpacking, Hiking, Kayaking  Erie, Pa area. We are a Social non-competitive Outdoors Club. We go camping, hiking, backpacking, cycling,kayaking">
+  <meta name="keywords" content="backpacking,Cycling,hiking, Kayaking,Erie Pa">
+  <meta property="og:title" content="Erie Outing Club">
+  <meta property="og:title"
+    content="Outdoors - erieoutingclub.org,Cross-Country Skiing, Backpacking,hiking, Cycling, Bicycle rides and Kayaking" />
+  <meta property="og:description"
+    content="Offering Cross-Country Skiing, Backpacking,hiking, Cycling, Bicycle rides and Kayaking for individuals.">
+  <meta property="og:image" content="http://euro-travel-example.com/thumbnail.jpg">
+  <meta property="og:url" content="https://www.erieoutingclub.org/">
+  <title>{{ page.title }}</title>
+  <style>
+  </style>
+  <script src="https://kit.fontawesome.com/81810279c2.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+  {% include navbar.html %}
+
+  <div class="row">
+    {% for cycling in site.cycling %}
+    <h2>{{comet.title}}</h2>
+    {{cycling.content | markdownify}}
+  {% endfor %}
+  </div>
+  {% include footer.html %}
+
+
+  <script>
+    let mainNav = document.getElementById('js-menu');
+    let navBarToggle = document.getElementById('js-navbar-toggle');
+
+    navBarToggle.addEventListener('click', function () {
+
+      mainNav.classList.toggle('active');
+    });
+  </script>
+
+</body>
+
+</html>

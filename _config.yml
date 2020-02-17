@@ -3,4 +3,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
 title: Erie Outing Club
 
+collection:
+  cycling:
+    output: true
+    permalink: /cycling/:path/
+
 
