@@ -1,5 +1,5 @@
 git add --all
 
-git commit -m "Update Navbar"
+git commit -m "Remove old Membership App"
 
 git push -u origin master
