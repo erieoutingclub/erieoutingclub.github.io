@@ -1,5 +1,9 @@
 git add --all
 
-git commit -m "Update background-color:green"
+git commit -m "Update upcoming events"
 
 git push -u origin master
+
+
+
+March 2
