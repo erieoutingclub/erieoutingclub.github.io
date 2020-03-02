@@ -6,7 +6,7 @@
   <ul>
     {% for person in site.data.events %}
     {% if person.month == variable1 %}
-    <li style="list-style: none; font-size: 20px;">
+    <li style="list-style: none; font-size: 20px;" style=" background-color: #4CAF50;">
       {{ person.date}}, {{ person.event}}, {{ person.time}}<br>
     </li>
     {% endif %}
