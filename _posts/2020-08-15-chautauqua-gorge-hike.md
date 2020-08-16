@@ -7,7 +7,7 @@ date: 08-15-2020
 ---
 
 
-# chautauqua Gorge Hike<br><br> 
+# Chautauqua Gorge Hike<br><br> 
 
 ![Group Pic](https://i.imgur.com/rS19DLim.jpg)<br>
 
