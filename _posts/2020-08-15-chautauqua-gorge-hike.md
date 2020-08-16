@@ -3,7 +3,6 @@ layout: post
 title:  "Chautauqua Gorge Hike"
 categories: Hiking
 permalink: /post08-15/
-date: 08-15-2020
 ---
 
 
