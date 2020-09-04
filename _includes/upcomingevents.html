@@ -2,7 +2,9 @@
   <h2>Upcoming Events</h2><br>
   <p>Click on <a href="/calendar">calendar</a> for more info</p>
   <br>
-  {% assign variable1 = site.time | date: "%m" %}
+  <div id=”content-desktop”>
+This is the content that will display on DESKTOPS.
+    {% assign variable1 = site.time | date: "%m" %}
   <ul>
     {% for person in site.data.events %}
     {% if person.month == variable1 %}
@@ -12,4 +14,10 @@
     {% endif %}
     {% endfor %}
   </ul>
+</div>
+
+<div id=”content-mobile”>
+This is the content that will display on MOBILE DEVICES.
+</div>
+  
 </div>
