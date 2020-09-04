@@ -1,5 +1,4 @@
- /* update 09/2020*/ 
-/* google calendar workaround*/
+ /* google calendar workaround*/
  @media (max-width: 550px) {
   .big-container {
       display: none;
@@ -326,14 +325,4 @@
         width: 100%;
         text-align: left;
     }
-}
-
-#content-desktop {display: block;}
-#content-mobile {display: none;}
-
-@media screen and (max-width: 768px) {
-
-#content-desktop {display: none;}
-#content-mobile {display: block;}
-
 }
