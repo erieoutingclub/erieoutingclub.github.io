@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update lang='lang'"
+git commit -m "Update meta-tags"
 
 git push -u origin master
 
