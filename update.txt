@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Covid-19"
+git commit -m "Update October Events"
 
 git push -u origin master
 
