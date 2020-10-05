@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update meta-tags"
+git commit -m "Update Main image"
 
 git push -u origin master
 
