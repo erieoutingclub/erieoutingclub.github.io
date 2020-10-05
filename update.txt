@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update October Events"
+git commit -m "Update lang='lang'"
 
 git push -u origin master
 
