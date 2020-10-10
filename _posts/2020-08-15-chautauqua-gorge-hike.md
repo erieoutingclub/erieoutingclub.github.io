@@ -2,11 +2,12 @@
 layout: post
 title:  "Chautauqua Gorge Hike"
 categories: Hiking
+date:   2020-08-15
 permalink: /post08-15/
 ---
 
 
-# Chautauqua Gorge Hike<br><br> 
+
 
 ![Group Pic](https://i.imgur.com/rS19DLil.jpg)<br>
 

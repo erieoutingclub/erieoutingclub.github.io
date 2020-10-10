@@ -2,11 +2,12 @@
 layout: post
 title:  "Night Hike at the Pennisula"
 categories: Hiking
+date:   2020-02-09
 permalink: /post02-09/
 ---
 
 
-# Night Hike on the Side Walk Trail at the Pennisula.<br><br> 
+ 
 
 ![Group Pic](https://i.imgur.com/3nL1MPpl.jpg)<br>
 

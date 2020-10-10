@@ -401,6 +401,20 @@ body {
 
 }
 
+div.post {
+  text-align: center;
+  display: block;
+}
+
+
+
+
+  p {
+    color: black;
+    text-align: center;
+    font-size: 130%;
+  }
+
 
 
 

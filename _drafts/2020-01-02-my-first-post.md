@@ -2,11 +2,10 @@
 layout: post
 title:  "East Side Overland Trail"
 categories: mountain biking
-date:   2020-01-02
 permalink: /post01-02/
 ---
 
-
+# The Eastside Overland Trail
 
 ![alt text](https://i.imgur.com/SVSWb6rl.jpg)
 

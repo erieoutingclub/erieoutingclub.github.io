@@ -2,10 +2,11 @@
 layout: post
 title:  "The Hike on the Side Walk Trail at the Pennisula"
 categories: Hiking
+date:   2020-01-05
 permalink: /post01-05/
 ---
 
-# The Hike on the Side Walk Trail at the Pennisula
+
 
 ![sidewalk trail](https://i.imgur.com/31uP5pWl.jpg)
 
