@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update blog"
+git commit -m "Update blog 10/11/2020"
 
 git push -u origin master
 
 
 
-April 22,2020
+Oct 11,2020

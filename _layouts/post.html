@@ -20,12 +20,13 @@
   <!-- <div class="main" id="navigation">navigation</div> -->
 
   <!-- POST NAVIGATION -->
+  <center>
   <div class="postNav clearfix">
 
     <!-- POST previous -->
-    <center>
+  
       <h3>Posts Previous links</h3>
-    </center>
+  
     {% if page.next.url %}
     <a class="next{% if page.next.image %} image{% endif %}"
       href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
@@ -35,9 +36,9 @@
     </a>
     {% endif %}
     <!-- POST Next -->
-    <center>
+  
       <h3>Posts Next links</h3>
-    </center>
+    
     {% if page.previous.url %}
     <a class="prev{% if page.previous.image %} image{% endif %}"
       href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
@@ -46,7 +47,6 @@
       {% endif %}
     </a>
     {% endif %}
-  </div>
   </div>
   {% include footer.html %}
 
