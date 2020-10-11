@@ -426,4 +426,89 @@ div.post {
     background-color: red;
   }
 
+  /* post navigation blog*/
+
+  .clearfix {
+    zoom: 1
+}
+
+.clearfix:after,
+.clearfix:before {
+    content: "\0020";
+    display: block;
+    height: 0;
+    overflow: hidden
+}
+
+.clearfix:after {
+    clear: both
+}
+
+.postNav {
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  overflow: hidden
+}
+
+.postNav .next,
+.postNav .prev {
+  display: block;
+  width: 100%;
+  height: 5rem;
+  overflow: hidden;
+  position: relative;
+  font-family: Open Sans, Helvetica, Arial, sans-serif;
+  font-weight: 800;
+  font-size: .9em;
+  text-transform: uppercase;
+  text-align: center
+}
+
+.postNav .next img,
+.postNav .prev img {
+  z-index: 1;
+  display: block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  width: 100%;
+  height: auto
+}
+
+.postNav .next span,
+.postNav .prev span {
+  z-index: 10;
+  position: relative;
+  padding: .5rem;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  line-height: 1.4
+}
+
+.postNav .next.image,
+.postNav .prev.image {
+  text-decoration: none;
+  color: #fff;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, .8);
+  padding: 0 .5rem;
+  position: relative;
+  transition: all .2s ease-in-out
+}
+
+.postNav .next:hover.image,
+.postNav .prev:hover.image {
+  opacity: .8
+}
+
+.postNav .prev span {
+  left: 0
+}
+
+.postNav .next span {
+  right: 0
+}
+
 
