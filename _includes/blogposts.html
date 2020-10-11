@@ -6,7 +6,8 @@
       <ul style="list-style-type:none;">
         {% for post in site.posts %}
           <li>
-            <a class="blogposts" href="{{ post.url }}">{{ post.title }}</a>
+            <span class="date">{{ post.date | date: '%B %d, %Y' }}</span></li>
+            <li><a class="blogposts" href="{{ post.url }}">{{ post.title }}</a>
             <br>
             <br>
           </li>

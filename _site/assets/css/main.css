@@ -419,8 +419,11 @@ div.post {
     font-size: 130%;
   
   }
-
-
-
+ 
+  .responsiveblog {
+    max-width: 100%;
+    height: auto;
+    background-color: red;
+  }
 
 

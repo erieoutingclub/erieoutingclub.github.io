@@ -1,8 +1,7 @@
-I"’<div class="center">
-<table border="0" cellpadding="0">
+I"x<table border="0" cellpadding="0">
   <caption><strong>Kayaking Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/u1rHLoBh.jpg" width="960" height="720" name="photoslider" /></td>
+    <td width="100%"><img src="https://i.imgur.com/u1rHLoBh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -51,6 +50,5 @@ else window.status='End of gallery'
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
 <p>We had a short Club meeting at the lagoons, and then we went kayaking in the lagoons and Misery Bay.</p>
-<center>
-</center></div>
+
 :ET
