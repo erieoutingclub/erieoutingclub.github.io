@@ -1,34 +1,9 @@
 <!DOCTYPE html>
-<html lang="en"></html>>
+<html lang="en"></html>
 {% include head.html %}
 
 <body>
-
-  <div class="topnav" id="myTopnav">
-    <a href="https://www.erieoutingclub.org/" class="active">Erie Outing Club</a>
-    <div class="dropdown">
-      <button class="dropbtn">More Info
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="/calendar">Calendar</a>
-        <a href="/membershipmeeting">Membership Meeting</a>
-        <a href="/membershipapp">Membership App</a>
-      </div>
-    </div>
-    <div class="dropdown">
-      <button class="dropbtn">Social Media
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        <a href="/blog">Blog</a>
-        <a href="https://www.youtube.com/channel/UCQbGqOrYyhk0iKC81KlU_fw">Youtube</a>
-      </div>
-    </div>
-    <a href="/contact">Contact</a>
-    <a href="/clubs">Outdoor Recreational Clubs</a>
-    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-  </div>
+  {% include navbar.html %}
    <!-- content  -->
 <div class="post">
   <h1 class="postTitle">{{ page.title }}</h1>
