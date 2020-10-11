@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Main image"
+git commit -m "Update blog"
 
 git push -u origin master
 

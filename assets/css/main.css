@@ -402,17 +402,22 @@ body {
 }
 
 div.post {
+  width 100%;
+  padding:2% 25%;
   text-align: center;
   display: block;
+  
 }
 
 
 
 
   p {
+   
     color: black;
     text-align: center;
     font-size: 130%;
+  
   }
 
 

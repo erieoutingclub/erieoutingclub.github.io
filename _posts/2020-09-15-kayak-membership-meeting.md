@@ -65,5 +65,5 @@ else window.status='End of gallery'
 <p align="center"><font face="arial" size="-2">This free script provided by</font><br>
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
-## We had a short Club meeting at the lagoons, and then we went kayaking in the lagoons and Misery Bay.
+<p>We had a short Club meeting at the lagoons, and then we went kayaking in the lagoons and Misery Bay.</p>
 <center>
