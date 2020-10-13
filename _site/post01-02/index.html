@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="description"
@@ -20,9 +20,34 @@
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <style>
-  .parent {
-    display: grid;
-    place-items: center;
+  * {
+    box-sizing: border-box;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 50%;
+  }
+
+  .flex-item-right {
+    background-color: dodgerblue;
+    padding: 10px;
+    flex: 50%;
+  }
+
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
   }
 
   img {
@@ -60,31 +85,11 @@
   <a href="/clubs">Outdoor Recreational Clubs</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-  <!-- content  -->
-  <div class="post">
-    <h1 class="postTitle">East Side Overland Trail</h1>
-    <p class="meta">January 02, 2020 | <span
-        class="time">0</span> Minute Read</p>
-    <div class="parent blue">
-      <div class="box coral" contenteditable>
-        <p><img src="https://i.imgur.com/SVSWb6rl.jpg" alt="alt text" /></p>
-
-<p>Earl Cardot Eastside Overland Trail is a 17.5 mile long. The Earl Cardot Eastside Overland Trail extends from the Twenty Eighth Creek Road in the Gerry, New York and proceeds north for 19 miles to the Canadaway Creek in the Town of Arkwright.</p>
-
-<p><img src="https://i.imgur.com/6s12OiOl.jpg" alt="alt text" /></p>
-
-<p>Adirondack lean-tos, latrines, firepits and tables are at campsites along the overland trails. The trails are well marked with blue blazes on trees. Parking is available near or adjoining the trail or waterways at various road crossings. Hiking, skiing, snowshoeing, and mountain biking are permitted on the trail.</p>
-
-<p><img src="https://i.imgur.com/Dfz4kDol.jpg" alt="alt text" />
-<img src="https://i.imgur.com/vSpsPGzl.jpg" alt="alt text" /></p>
-
-<p>.</p>
-
-
-      </div>
-    </div>
-    <!-- POST NAVIGATION -->
-    <center>
+  <div class="flex-container">
+    <div class="flex-item-left">
+      <h1 class="postTitle">East Side Overland Trail</h1>
+      <p class="meta">January 02, 2020 | <span
+          class="time">0</span> Minute Read</p>
       <div class="postNav clearfix">
 
         <!-- POST previous -->
@@ -107,16 +112,41 @@
         <br>
         <br>
       </div>
-      <script>
-        function myFunction() {
-          var x = document.getElementById("myTopnav");
-          if (x.className === "topnav") {
-            x.className += " responsive";
-          } else {
-            x.className = "topnav";
-          }
-        }
-      </script>
+    </div>
+    <div class="flex-item-right"><p><img src="https://i.imgur.com/SVSWb6rl.jpg" alt="alt text" /></p>
+
+<p>Earl Cardot Eastside Overland Trail is a 17.5 mile long. The Earl Cardot Eastside Overland Trail extends from the Twenty Eighth Creek Road in the Gerry, New York and proceeds north for 19 miles to the Canadaway Creek in the Town of Arkwright.</p>
+
+<p><img src="https://i.imgur.com/6s12OiOl.jpg" alt="alt text" /></p>
+
+<p>Adirondack lean-tos, latrines, firepits and tables are at campsites along the overland trails. The trails are well marked with blue blazes on trees. Parking is available near or adjoining the trail or waterways at various road crossings. Hiking, skiing, snowshoeing, and mountain biking are permitted on the trail.</p>
+
+<p><img src="https://i.imgur.com/Dfz4kDol.jpg" alt="alt text" />
+<img src="https://i.imgur.com/vSpsPGzl.jpg" alt="alt text" /></p>
+
+<p>.</p>
+
+</div>
+  </div>
+   <!-- Footer -->
+ <div class="footer" style=" background-color: #4CAF50;">
+  <p class="m-0 text-center text-white">Copyright &copy; Erie Outing Club 2020. This site is design and maintained by Erie Outing Club Members.</p>
+        <p>backend by Jekyll</p>
+        <a href="https://jekyllrb.com/" target="_blank">
+          <img src="https://i.imgur.com/IexfirQt.png" alt="HTML tutorial"></a>
+          <p>This page was last updated at 2020-10-13 16:14.</p>
+  </div>
+  <script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+  </script>
+
 </body>
 
 </html>

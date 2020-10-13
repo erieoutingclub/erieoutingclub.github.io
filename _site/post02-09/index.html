@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="description"
@@ -20,9 +20,34 @@
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <style>
-  .parent {
-    display: grid;
-    place-items: center;
+  * {
+    box-sizing: border-box;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .flex-item-left {
+    background-color: #f1f1f1;
+    padding: 10px;
+    flex: 50%;
+  }
+
+  .flex-item-right {
+    background-color: dodgerblue;
+    padding: 10px;
+    flex: 50%;
+  }
+
+  /* Responsive layout - makes a one column-layout instead of two-column layout */
+  @media (max-width: 800px) {
+    .flex-container {
+      flex-direction: column;
+    }
   }
 
   img {
@@ -60,29 +85,11 @@
   <a href="/clubs">Outdoor Recreational Clubs</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-  <!-- content  -->
-  <div class="post">
-    <h1 class="postTitle">Night Hike at the Pennisula</h1>
-    <p class="meta">February 09, 2020 | <span
-        class="time">0</span> Minute Read</p>
-    <div class="parent blue">
-      <div class="box coral" contenteditable>
-        <p><img src="https://i.imgur.com/3nL1MPpl.jpg" alt="Group Pic" /><br /></p>
-
-<h2 id="erie-outing-club-hike--at-the-pennisula-at-night-time">Erie Outing Club Hike  at the Pennisula at night time.</h2>
-
-<p>We started near the Lighthouse. It was wet in spots and we had to do some alternative trails.<br />
- The group picture is near the Maintenance Building. Ralph also join us, She is the dog.<br />
- The temperture was in the low 30’s with light snow. This was the first time I (webmaster) has done a Hike at night time down at the Pennisula.<br /><br /></p>
-
-<p><img src="https://i.imgur.com/vEu5jW0l.jpg" alt="hiking on the sidewalk trail" />.<br /></p>
-
-<p><img src="https://i.imgur.com/qGlSwfol.jpg" alt="hiking on the sidewalk trail" /></p>
-
-      </div>
-    </div>
-    <!-- POST NAVIGATION -->
-    <center>
+  <div class="flex-container">
+    <div class="flex-item-left">
+      <h1 class="postTitle">Night Hike at the Pennisula</h1>
+      <p class="meta">February 09, 2020 | <span
+          class="time">0</span> Minute Read</p>
       <div class="postNav clearfix">
 
         <!-- POST previous -->
@@ -110,16 +117,39 @@
         <br>
         <br>
       </div>
-      <script>
-        function myFunction() {
-          var x = document.getElementById("myTopnav");
-          if (x.className === "topnav") {
-            x.className += " responsive";
-          } else {
-            x.className = "topnav";
-          }
-        }
-      </script>
+    </div>
+    <div class="flex-item-right"><p><img src="https://i.imgur.com/3nL1MPpl.jpg" alt="Group Pic" /><br /></p>
+
+<h2 id="erie-outing-club-hike--at-the-pennisula-at-night-time">Erie Outing Club Hike  at the Pennisula at night time.</h2>
+
+<p>We started near the Lighthouse. It was wet in spots and we had to do some alternative trails.<br />
+ The group picture is near the Maintenance Building. Ralph also join us, She is the dog.<br />
+ The temperture was in the low 30’s with light snow. This was the first time I (webmaster) has done a Hike at night time down at the Pennisula.<br /><br /></p>
+
+<p><img src="https://i.imgur.com/vEu5jW0l.jpg" alt="hiking on the sidewalk trail" />.<br /></p>
+
+<p><img src="https://i.imgur.com/qGlSwfol.jpg" alt="hiking on the sidewalk trail" /></p>
+</div>
+  </div>
+   <!-- Footer -->
+ <div class="footer" style=" background-color: #4CAF50;">
+  <p class="m-0 text-center text-white">Copyright &copy; Erie Outing Club 2020. This site is design and maintained by Erie Outing Club Members.</p>
+        <p>backend by Jekyll</p>
+        <a href="https://jekyllrb.com/" target="_blank">
+          <img src="https://i.imgur.com/IexfirQt.png" alt="HTML tutorial"></a>
+          <p>This page was last updated at 2020-10-13 16:14.</p>
+  </div>
+  <script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+  </script>
+
 </body>
 
 </html>
