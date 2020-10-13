@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
-</html>
 {% include head.html %}
+<style>
+  .parent {
+    display: grid;
+    place-items: center;
+  }
+
+  img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+  }
+</style>
 
 <body>
   {% include navbar.html %}
@@ -11,61 +21,54 @@
     <h1 class="postTitle">{{ page.title }}</h1>
     <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span
         class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
-    <div class="main" id="content">{{ content }}</div>
-  </div>
+    <div class="parent blue">
+      <div class="box coral" contenteditable>
+        {{ content }}
+      </div>
+    </div>
+    <!-- POST NAVIGATION -->
+    <center>
+      <div class="postNav clearfix">
 
+        <!-- POST previous -->
 
+        <h3>Posts Previous links</h3>
 
+        {% if page.next.url %}
+        <a class="next{% if page.next.image %} image{% endif %}"
+          href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
+          {% if page.next.image %}
+          <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
+          {% endif %}
+        </a>
+        {% endif %}
+        <br>
+        <br>
+        <!-- POST Next -->
 
-  <!-- <div class="main" id="navigation">navigation</div> -->
+        <h3>Posts Next links</h3>
 
-  <!-- POST NAVIGATION -->
-  <center>
-  <div class="postNav clearfix">
-
-    <!-- POST previous -->
-  
-      <h3>Posts Previous links</h3>
-  
-    {% if page.next.url %}
-    <a class="next{% if page.next.image %} image{% endif %}"
-      href="{{ page.next.url | prepend: site.baseurl }}"><span>{{ page.next.title }}&nbsp;&raquo;</span>
-      {% if page.next.image %}
-      <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.next.image }}" alt="">
-      {% endif %}
-    </a>
-    {% endif %}
-    <br>
-    <br>
-    <!-- POST Next -->
-  
-      <h3>Posts Next links</h3>
-    
-    {% if page.previous.url %}
-    <a class="prev{% if page.previous.image %} image{% endif %}"
-      href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
-      {% if page.previous.image %}
-      <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
-      {% endif %}
-    </a>
-    {% endif %}
-    <br>
-    <br>
-  </div>
-  {% include footer.html %}
-
-
-
-  <script>
-    function myFunction() {
-      var x = document.getElementById("myTopnav");
-      if (x.className === "topnav") {
-        x.className += " responsive";
-      } else {
-        x.className = "topnav";
-      }
-    }
-  </script>
+        {% if page.previous.url %}
+        <a class="prev{% if page.previous.image %} image{% endif %}"
+          href="{{ page.previous.url | prepend: site.baseurl }}"><span>&laquo;&nbsp;{{ page.previous.title }}</span>
+          {% if page.previous.image %}
+          <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.previous.image }}" alt="">
+          {% endif %}
+        </a>
+        {% endif %}
+        <br>
+        <br>
+      </div>
+      <script>
+        function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+            x.className += " responsive";
+          } else {
+            x.className = "topnav";
+          }
+        }
+      </script>
 </body>
 
 </html>

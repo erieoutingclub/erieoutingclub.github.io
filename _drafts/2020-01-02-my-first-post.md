@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "East Side Overland Trail"
+layout: post1
+title:  "Test Blog"
 categories: mountain biking
-permalink: /post01-02/
+date:   2020-10-16
+permalink: /post10-02/
 ---
 
 # The Eastside Overland Trail

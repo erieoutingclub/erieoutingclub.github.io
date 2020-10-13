@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+</html>
+{% include head.html %}
+<style>
+     .parent {
+    display: grid;
+    place-items: center;}
+
+    img {
+  border-radius: 8px;
+  max-width: 100%;
+  height: auto;
+}
+
+  
+</style>
+<body>
+  {% include navbar.html %}
+
+  <h1 class="postTitle">{{ page.title }}</h1>
+    <p class="meta">{{ page.date | date: '%B %d, %Y' }} | <span
+        class="time">{{ page.content | number_of_words | divided_by:180 }}</span> Minute Read</p>
+  <!-- content  -->
+  <div class="post">
+    <div class="parent blue" >
+        <div class="box coral" contenteditable>
+          {{ content }}
+        </div>
+
+  </div>
+  
+<script>
+    function myFunction() {
+      var x = document.getElementById("myTopnav");
+      if (x.className === "topnav") {
+        x.className += " responsive";
+      } else {
+        x.className = "topnav";
+      }
+    }
+  </script>
+</body>
+
+</html>
