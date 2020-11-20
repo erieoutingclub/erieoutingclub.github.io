@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update blog 11/18/2020"
+git commit -m "Update about Erie Outing Club 11/18/2020"
 
 git push -u origin master
 
