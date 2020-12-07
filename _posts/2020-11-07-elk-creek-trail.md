@@ -2,8 +2,8 @@
 layout: post
 title:  "Elk Creek Trail Hike"
 categories: Hiking
-date:   2020-11-07
-permalink: /post11-06/
+date:   2020-12-07
+permalink: /post12-07/
 ---
 
 ![Group Pic](https://i.imgur.com/hTwtkThl.jpg)<br>
