@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update about Erie Outing Club 11/18/2020"
+git commit -m "Update blog with Elk Creek Hike"
 
 git push -u origin master
 
 
 
-Nov 19,2020
+Dec 07,2020
