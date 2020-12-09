@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update blog with Elk Creek Hike"
+git commit -m "Update Main Picture for Christmas"
 
 git push -u origin master
 
 
 
-Dec 07,2020
+Dec 09,2020
