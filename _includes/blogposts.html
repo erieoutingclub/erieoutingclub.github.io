@@ -4,7 +4,7 @@
       <br>
       <br>
       <ul style="list-style-type:none;">
-        {% for post in site.posts %}
+        {% for post in site.posts limit:5 %}
           <li>
             <span class="date">{{ post.date | date: '%B %d, %Y' }}</span></li>
             <li><a class="blogposts" href="{{ post.url }}">{{ post.title }}</a>

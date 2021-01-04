@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update Main Picture for Christmas"
+git commit -m "Update Main Picture for January"
 
 git push -u origin master
 
 
 
-Dec 09,2020
+Jan 01,2021
