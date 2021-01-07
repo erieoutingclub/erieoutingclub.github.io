@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Main Picture for January"
+git commit -m "Update event for January"
 
 git push -u origin master
 
