@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update event for January"
+git commit -m "Update blog with Bridger Park"
 
 git push -u origin master
 
 
 
-Jan 01,2021
+Jan 07,2021

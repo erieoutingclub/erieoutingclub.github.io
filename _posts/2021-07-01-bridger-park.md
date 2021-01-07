@@ -3,7 +3,7 @@ layout: post
 title:  "Bridger Park"
 categories: Hiking
 date:   2021-01-07
-permalink: /post01-07/
+permalink: /post-01-07-21/
 ---
 
 <table border="0" cellpadding="0">
