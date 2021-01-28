@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update blog with Allegheny State Park Weekend"
+git commit -m "Update blog with Sunday Hike at the Pennsiula"
 
 git push -u origin master
 
 
 
-Jan 18,2021
+Jan 24,2021
