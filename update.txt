@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update blog with Allegheny State Park Weeking"
+git commit -m "Update blog with Allegheny State Park Weekend"
 
 git push -u origin master
 
