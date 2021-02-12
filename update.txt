@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update blog with Sunday Hike at the Pennsiula"
+git commit -m "Update Join the club on the About section"
 
 git push -u origin master
 
 
 
-Jan 24,2021
+Jan 12,2021
