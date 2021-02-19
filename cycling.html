@@ -1,0 +1,13 @@
+---
+layout: cyclingdefault
+title: "Cycling"
+---
+
+<center><h1>Erie Outing Club Cycling Page</h1></center>
+<center>
+    {% for cycling in site.cycling %}
+<li>
+    <h2></h2><a href="{{ cycling.url }}">{{ cycling.title }}</a></li></h2>
+</li>
+{% endfor %}
+</center>

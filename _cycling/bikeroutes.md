@@ -1,7 +1,0 @@
----
-layout: cycling
-title: "local Bicycle events"
----
-layout: cycling
-title: "local Bicycle Ride Routes"
----
