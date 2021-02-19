@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update Join the club on the About section"
+git commit -m "Update Cycling Section"
 
 git push -u origin master
 
 
 
-Jan 12,2021
+feb 19,2021
