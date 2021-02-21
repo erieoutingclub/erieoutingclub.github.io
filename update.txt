@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Cycling Section"
+git commit -m "Update NavBar with Cyclng Link"
 
 git push -u origin master
 

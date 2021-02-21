@@ -1,14 +1,9 @@
----
-layout: post
-title: "the Pet Cementary ride"
----
-
-Pet Cememtary ride
+I"Å<p>Pet Cememtary ride</p>
 
 <table border="0" cellpadding="0">
-  <caption><strong>Ride Turns Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
+  <caption><strong>Kayaking Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/x04PLZmh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
+    <td width="100%"><img src="https://i.imgur.com/x04PLZmh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -46,20 +41,18 @@ document.images.photoslider.src=photos[which]
 }
 else window.status='End of gallery'
 }
-</script><input type="button" value="&lt;&lt;Back" name="B2"
-      onClick="backward()"> <input type="button" value="Next&gt;&gt;" name="B1"
-      onClick="forward()"><br>
-      <a href="#" onClick="which=1;backward();return false"><small>Start Over</small></a></p>
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
       </center></div>
     </form>
     </td>
   </tr>
 </table>
 
-<p align="center"><font face="arial" size="-2">This free script provided by</font><br>
+<p align="center"><font face="arial" size="-2">This free script provided by</font><br />
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
-<p>Pet Cememtary Ride. This ride start at Asbury Park on Asbury Road in Millcreek</p>
-
+<p>Pet Cememtary Ride.</p>
 
 <p>View Ride on <a href="https://ridewithgps.com/routes/34137529">Ride By GPS</a></p>
+:ET
