@@ -55,7 +55,7 @@ else window.status='End of gallery'
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
 <p>I cannot tell a lie, I really thought the annual George Washington cherry pie hike would be a bust this year. But 20 EOC members shrugged off a gray and blustery 19 degree Saturday as Dick took us on an informative tour of the historical sites around Waterford. After that we split into groups and hiked out to the covered bridge over LeBoeuf creek, toured the Judson House and Fort LeBoeuf Museum. Both were very interesting, especially since the tours ended with cherry cheesecake and of course cherry pie!</p>
-<p>Photos and story by John G</p>
+<p>Photos and story by John S</p>
 
 
 
