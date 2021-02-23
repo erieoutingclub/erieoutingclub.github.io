@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update NavBar with Cyclng Link"
+git commit -m "Update NavBar with Erie Outing Club Cycling Network"
 
 git push -u origin master
 
 
 
-feb 19,2021
+feb 21,2021
