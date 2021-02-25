@@ -1,0 +1,20 @@
+
+<div class="col-6">
+    <center>
+        <img src="https://i.imgur.com/tQM071rh.jpg" alt="Erie Outing Club Cycling Network" width="640" height="393">
+        <p>Erie Outing Club Cycling Network will be dedicated to Cycling Adventures in Erie county area and Near by
+             states and county's. We will provide virtual tours and adventures. We also will have links to your favorites
+             rails trails and Mountain bike Trails in the local area.
+        </p>
+        <br><br>
+            <h2>Play Sports Network in the U.K has many Youtube channels about Cycling</h2><br>
+            <a href="https://playsportsnetwork.com/channels/" target="_blank">Play Sports Network</a><br><br>
+        
+            <h2>Local Cycling Virtual Tours-under-construction</h2>
+            {% for cycling in site.cycling %}
+        <li>
+            <h2></h2><a href="{{ cycling.url }}">{{ cycling.title }}</a></li></h2>
+        </li>
+        {% endfor %}
+        </center>
+</div>
