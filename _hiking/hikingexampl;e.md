@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "the Pet Cementary ride"
+title: "Hiking Example"
 ---
 
-Pet Cememtary ride
+title: "Hiking Example"
+
 
 <table border="0" cellpadding="0">
   <caption><strong>Ride Turns Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
