@@ -1,9 +1,9 @@
-I"’<p>Pet Cememtary ride</p>
+I"ä<h2>Fairview Flag Park Ride</h2>
 
 <table border="0" cellpadding="0">
   <caption><strong>Ride Turns Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/x04PLZmh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
+    <td width="100%"><img src="https://i.imgur.com/qdcWBReh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -12,17 +12,12 @@ var photos=new Array()
 var which=0
 
 /*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
-photos[0]="https://i.imgur.com/x04PLZmh.jpg"
+photos[0]="https://i.imgur.com/qdcWBReh.jpg"
 photos[1]="https://i.imgur.com/PQCgm0Ch.jpg"
-photos[2]="https://i.imgur.com/JNgtPKfh.jpg"
+photos[2]="https://i.imgur.com/PQCgm0Ch.jpg"
 photos[3]="https://i.imgur.com/1E3J2C4h.jpg"
-photos[4]="https://i.imgur.com/UD8RSJsh.jpg"
-photos[5]="https://i.imgur.com/jbXAKIvh.jpg"
-photos[6]="https://i.imgur.com/AHbazCoh.jpg"
-photos[7]="https://i.imgur.com/h3e3dAsh.jpg"
-photos[8]="https://i.imgur.com/xdTLIqih.jpg"
-photos[9]="https://i.imgur.com/n1dVCvlh.jpg"
-photos[9]="https://i.imgur.com/MO5LAqgh.jpg"
+
+
 
 
 
@@ -52,8 +47,11 @@ else window.status='End of gallery'
 <p align="center"><font face="arial" size="-2">This free script provided by</font><br />
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
-<p>The Fairview Flag Park Ride. This ride start at Asbury Park on Asbury Road in Millcreek</p>
+<p>The Fairview Flag Park Ride. This ride starts at Asbury Park on Asbury Road in Millcreek. It is a nice ride on low traffic roads in Millcreek and Fairview. The  Flag Park is the <a href="https://www.theracingbiz.com/2019/03/08/ghosts-racetracks-past-always-oldtimers-day-commodore-downs/" target="_blank">old horse racing track (Commonodore Downs)</a> which is oval and is fun to ride.</p>
 
-<p>View Ride on <a href="https://ridewithgps.com/routes/35406435">Ride By GPS-White Turkey Short Route</a></p>
-<p>View Ride on <a href="https://ridewithgps.com/routes/35406578">Ride By GPS-White Turkey Long Route</a></p>
+<p>View Ride on <a href="https://ridewithgps.com/routes/35406435">Ride By GPS-Fairview Flag Park</a><p>
+<br /><br />
+
+<iframe src="https://ridewithgps.com/embeds?type=route&amp;id=35402431&amp;sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+</p></p>
 :ET

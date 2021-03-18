@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update Blog with Cherry Pie Hike"
+git commit -m "Update Fairview Flag Park Ride"
 
 git push -u origin master
 
 
 
-feb 23,2021
+March 16,2021

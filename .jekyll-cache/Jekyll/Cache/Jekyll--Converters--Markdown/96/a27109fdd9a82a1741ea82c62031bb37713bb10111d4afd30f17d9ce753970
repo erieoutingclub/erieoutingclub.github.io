@@ -1,14 +1,9 @@
----
-layout: post
-title: "The Fairview Flag Park Ride"
----
-
-<h2>Fairview Flag Park Ride</h2>
+I"Å	<h2>Fairview Flag Park Ride</h2>
 
 <table border="0" cellpadding="0">
   <caption><strong>Ride Turns Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/qdcWBReh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
+    <td width="100%"><img src="https://i.imgur.com/qdcWBReh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -44,23 +39,22 @@ document.images.photoslider.src=photos[which]
 }
 else window.status='End of gallery'
 }
-</script><input type="button" value="&lt;&lt;Back" name="B2"
-      onClick="backward()"> <input type="button" value="Next&gt;&gt;" name="B1"
-      onClick="forward()"><br>
-      <a href="#" onClick="which=1;backward();return false"><small>Start Over</small></a></p>
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
       </center></div>
     </form>
     </td>
   </tr>
 </table>
 
-<p align="center"><font face="arial" size="-2">This free script provided by</font><br>
+<p align="center"><font face="arial" size="-2">This free script provided by</font><br />
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
 <p>The Fairview Flag Park Ride. This ride starts at Asbury Park on Asbury Road in Millcreek. It is a nice ride on low traffic roads in Millcreek and Fairview. The  Flag Park is the <a href="https://www.theracingbiz.com/2019/03/08/ghosts-racetracks-past-always-oldtimers-day-commodore-downs/" target="_blank">old horse racing track (Commonodore Downs)</a> which is oval and is fun to ride.</p>
 
-
 <p>View Ride on <a href="https://ridewithgps.com/routes/35406435">Ride By GPS-Fairview Flag Park</a><p>
-<br><br>
+<br /><br />
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=35402431&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+<iframe src="https://ridewithgps.com/embeds?type=route&amp;id=35402431&amp;sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
+</p></p>
+:ET
