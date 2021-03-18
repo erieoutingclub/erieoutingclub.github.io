@@ -1,4 +1,4 @@
-I"ä<h2>Fairview Flag Park Ride</h2>
+I"Õ	<h2>Fairview Flag Park Ride</h2>
 
 <table border="0" cellpadding="0">
   <caption><strong>Ride Turns Photos-Scroll Down and hit the Next button to view slide show</strong></caption>
@@ -14,8 +14,11 @@ var which=0
 /*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
 photos[0]="https://i.imgur.com/qdcWBReh.jpg"
 photos[1]="https://i.imgur.com/PQCgm0Ch.jpg"
-photos[2]="https://i.imgur.com/PQCgm0Ch.jpg"
+photos[2]="https://i.imgur.com/JNgtPKfh.jpg"
 photos[3]="https://i.imgur.com/1E3J2C4h.jpg"
+photos[4]="https://i.imgur.com/Hvx3wAqh.jpg" <!-- Turn right on Heider -->
+photos[5]="https://i.imgur.com/BeWSWhjh.jpg" <!-- Go Straight on Heidler -->
+photos[6]="https://i.imgur.com/rZ99kXch.jpg" <!-- Under Construction -->
 
 
 
@@ -49,7 +52,7 @@ else window.status='End of gallery'
 Kit</a></font></p>
 <p>The Fairview Flag Park Ride. This ride starts at Asbury Park on Asbury Road in Millcreek. It is a nice ride on low traffic roads in Millcreek and Fairview. The  Flag Park is the <a href="https://www.theracingbiz.com/2019/03/08/ghosts-racetracks-past-always-oldtimers-day-commodore-downs/" target="_blank">old horse racing track (Commonodore Downs)</a> which is oval and is fun to ride.</p>
 
-<p>View Ride on <a href="https://ridewithgps.com/routes/35406435">Ride By GPS-Fairview Flag Park</a><p>
+<p>View Ride on <a href="https://ridewithgps.com/routes/35402431" target="_blank">Ride By GPS-Fairview Flag Park</a><p>
 <br /><br />
 
 <iframe src="https://ridewithgps.com/embeds?type=route&amp;id=35402431&amp;sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>

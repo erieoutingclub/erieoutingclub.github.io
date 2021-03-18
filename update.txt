@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Fairview Flag Park Ride"
+git commit -m "Update Fairview Flag Park Ride update"
 
 git push -u origin master
 
