@@ -60,7 +60,7 @@ Kit</a></font></p>
 <p>The Fairview Flag Park Ride. This ride starts at Asbury Park on Asbury Road in Millcreek. It is a nice ride on low traffic roads in Millcreek and Fairview. The  Flag Park is the <a href="https://www.theracingbiz.com/2019/03/08/ghosts-racetracks-past-always-oldtimers-day-commodore-downs/" target="_blank">old horse racing track (Commonodore Downs)</a> which is oval and is fun to ride.</p>
 
 
-<p>View Ride on <a href="https://ridewithgps.com/routes/35406435">Ride By GPS-Fairview Flag Park</a><p>
+<p>View Ride on <a href="https://ridewithgps.com/routes/35402431">Ride By GPS-Fairview Flag Park</a><p>
 <br><br>
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=35402431&sampleGraph=true" style="width: 1px; min-width: 100%; height: 700px; border: none;" scrolling="no"></iframe>
