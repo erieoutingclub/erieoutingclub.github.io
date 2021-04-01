@@ -32,7 +32,10 @@ photos[11]="https://i.imgur.com/bwqQpyTh.jpg" <!-- Go through Gate and turn righ
 photos[12]="https://i.imgur.com/9VID7MOh.jpg" <!-- Go around Pond and back  and return to the road-->
 photos[13]="https://i.imgur.com/XugQNORh.jpg" <!-- Go Straight through Gate and ride down  Keidler -->
 photos[14]="https://i.imgur.com/eS2GLrzh.jpg" <!-- Turn Right on Bear Creek Road-->
-photos[15]="https://i.imgur.com/rZ99kXch.jpg" <!-- Under Construction -->
+photos[15]="https://i.imgur.com/fHeixeTh.jpg" <!-- Turn left on route 832-->
+photos[16]="https://i.imgur.com/8jG6N8Rh.jpg" <!-- Slight Right on Rick Road-->
+photos[17]="https://i.imgur.com/TgHG9rch.jpg" <!-- Turn left on Buman Road-->
+photos[18]="https://i.imgur.com/rZ99kXch.jpg" <!-- Under Construction -->
 
 
 function backward(){
