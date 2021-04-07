@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update Flag Park Ride"
+git commit -m "Update Events"
 
 git push -u origin master
 
 
 
-March 29, 2021
+April 7, 2021
