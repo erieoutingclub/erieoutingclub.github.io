@@ -9,7 +9,7 @@ permalink: /membershipmeeting
 
 ## **Erie Outing Club Membership Meeting**<br>
 
-## **Sunday, March28 at the Headwater Park at 3:00 pm**<br>
+## **June22 EOC meeting and paddle lagoons-6:00 p.m to 8:30 p.m.**<br>
 
 
   
