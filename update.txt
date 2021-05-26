@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Post Kayakng with Rog"
+git commit -m "Update Monthly meeting"
 
 git push -u origin master
 
