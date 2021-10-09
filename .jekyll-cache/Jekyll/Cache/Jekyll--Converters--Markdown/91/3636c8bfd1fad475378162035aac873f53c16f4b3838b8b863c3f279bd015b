@@ -1,0 +1,69 @@
+I"k
+<table border="0" cellpadding="0">
+  <caption><strong>French Creek Kayak with Rog-Scroll Down and hit the Next button to view slide show and read the story below</strong></caption>
+  <tr>
+    <td width="100%"><img src="https://i.imgur.com/Vjp38Syh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
+  </tr>
+  <tr>
+    <td width="100%"><form method="POST" name="rotater">
+      <div align="center"><center><p><script language="JavaScript1.1">
+var photos=new Array()
+var which=0
+
+/*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
+photos[0]="https://i.imgur.com/Vjp38Syh.jpg" /*title image*/
+photos[1]="https://i.imgur.com/MtK7Dcjh.jpg"
+photos[2]="https://i.imgur.com/p7ZwSHph.jpg"
+photos[3]="https://i.imgur.com/WKgr2Pih.jpg"
+photos[4]="https://i.imgur.com/dunLDlbh.jpg"
+photos[5]="https://i.imgur.com/ydwHQWkh.jpg"
+photos[6]="https://i.imgur.com/UEFu1MEh.jpg"
+photos[7]="https://i.imgur.com/qw6DvUOh.jpg"
+photos[8]="https://i.imgur.com/LzmDF3Eh.jpg"
+
+
+
+
+
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which]
+}
+}
+
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+}
+else window.status='End of gallery'
+}
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><font face="arial" size="-2">This free script provided by</font><br />
+<font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
+Kit</a></font></p>
+<p>  It was a super day for paddling on one of our favourite creeks.
+12 SWBs including Bob. B., Milt, Lynne, Bob S., Brenda, Steve,
+Matt, Jeanie, Annette, Y/T, Denise, and Alice took advantage of
+the cooler weather to get out and play. 
+   At 2.1' the water level is about as low as it gets for an enjoyable 
+trek. Most of us knocked the moss off our bottoms in the shallow
+sections but only one paddler took a hike. No names here, but
+Alice helped with the shuttle. Daryl, a non paddler, was the driver 
+of the second vehicle. Thanks Annette for sharing your hubby with
+us. Milt was the point man and those who followed his line had no
+trouble with rocks.The only wildlife spotted was an eagle pointed
+out by Milt. 
+   A lovely early dinner was enjoyed by most of us at Willie Gs' after
+our splendid day, By splendid, I mean that nobody swam. -Rog</p>
+
+:ET
