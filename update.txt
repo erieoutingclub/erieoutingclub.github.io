@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update Monthly meeting"
+git commit -m "Shenango Fall Fest"
 
 git push -u origin master
 
 
 
-May 12, 2021
+Oct 09, 2021
