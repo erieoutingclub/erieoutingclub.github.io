@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Shenango Fall Fest"
+git commit -m "Update Allegheny State Park Weekend"
 
 git push -u origin master
 
 
 
-Oct 09, 2021
+Oct 20, 2021
