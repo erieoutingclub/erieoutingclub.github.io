@@ -9,7 +9,7 @@ permalink: /post-10-16-21/
 <table border="0" cellpadding="0">
   <caption><strong>Alleghany State Park Fall Weekend-Scroll Down and hit the Next button to view slide show,read the story below and view the Youtube Video of the Weekend</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/8avIeZ3h.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
+    <td width="100%"><img src="https://i.imgur.com/XwkcpLCh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -18,7 +18,7 @@ var photos=new Array()
 var which=0
 
 /*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
-photos[0]="https://i.imgur.com/8avIeZ3h.jpg"
+photos[0]="https://i.imgur.com/XwkcpLCh.jpg"
 photos[1]="https://i.imgur.com/qQpUid2h.jpg"
 photos[2]="https://i.imgur.com/MDlWfLlh.jpg"
 photos[3]="https://i.imgur.com/n3nZntvh.jpg"
