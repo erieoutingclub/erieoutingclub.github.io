@@ -1,15 +1,7 @@
----
-layout: post
-title:  "Allegany State Park Fall Weekend"
-categories: Kayaking
-date:   2021-10-16
-permalink: /post-10-16-21/
----
-
-<table border="0" cellpadding="0">
+I"ÿ<table border="0" cellpadding="0">
   <caption><strong>Allegany State Park Fall Weekend-Scroll Down and hit the Next button to view slide show,read the story below and view the Youtube Video of the Weekend</strong></caption>
   <tr>
-    <td width="100%"><img src="https://i.imgur.com/I4G8DqRh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
+    <td width="100%"><img src="https://i.imgur.com/I4G8DqRh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
   </tr>
   <tr>
     <td width="100%"><form method="POST" name="rotater">
@@ -58,22 +50,22 @@ document.images.photoslider.src=photos[which]
 }
 else window.status='End of gallery'
 }
-</script><input type="button" value="&lt;&lt;Back" name="B2"
-      onClick="backward()"> <input type="button" value="Next&gt;&gt;" name="B1"
-      onClick="forward()"><br>
-      <a href="#" onClick="which=1;backward();return false"><small>Start Over</small></a></p>
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
       </center></div>
     </form>
     </td>
   </tr>
 </table>
 
-<p align="center"><font face="arial" size="-2">This free script provided by</font><br>
+<p align="center"><font face="arial" size="-2">This free script provided by</font><br />
 <font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
 Kit</a></font></p>
-<p> We rented some cabins on the Beehunter Loop at Allegany State Park and we kayaked, biked and hiked.  Some came and just joined the hike on Saturday.  We had a campfire every night.  The usual routine when a bunch of us get together- small groups doing different things.  It rained Saturday for most of the morning and some people went to see some nearby attractions and museums.<br><br>  Wendy O</p><br><br>
-<p>Our annual ASP Fall outing was a tale of two seasons. Thursday and Friday were warm and summery. Saturday and Sunday were cool, drizzly and occasionally rainy. But our group was unfazed and enjoyed hiking, biking, paddling, campfiring and lots of eating.<br><br>John S</p>
-<br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1ChBAsCQBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p> We rented some cabins on the Beehunter Loop at Allegany State Park and we kayaked, biked and hiked.  Some came and just joined the hike on Saturday.  We had a campfire every night.  The usual routine when a bunch of us get together- small groups doing different things.  It rained Saturday for most of the morning and some people went to see some nearby attractions and museums.<br /><br />  Wendy O</p>
+<p><br /><br /></p>
+<p>Our annual ASP Fall outing was a tale of two seasons. Thursday and Friday were warm and summery. Saturday and Sunday were cool, drizzly and occasionally rainy. But our group was unfazed and enjoyed hiking, biking, paddling, campfiring and lots of eating.<br /><br />John S</p>
+<p><br />
+<br /></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1ChBAsCQBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
+:ET
