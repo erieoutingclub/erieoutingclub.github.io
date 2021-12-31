@@ -13,12 +13,12 @@ permalink: /clubs
 ## [Bike Erie](https://bikeerie.org/ "Link to Bike Erie")<br><br>
 
 ![alt text](http://www.ridenambapa.org/wp-content/uploads/2019/01/namba-w-imba-logo.png)<br>
-## [Northern Allegheny Mountain Bike Association – NAMBA](http://www.ridenambapa.org/ "Northern Allegheny Mountain Bike Association – NAMBA")<br><br>
+## [Northern Allegheny Mountain Bike Association – NAMBA](http://www.ridenambapa.org/ "Link to Northern Allegheny Mountain Bike Association – NAMBA")<br><br>
 
 ## [Erie Trathlon Club ](http://www.erietriclub.org/home.html "Link to the Erie Trathlon Club")<br><br>
 
 ![alt text](https://erierunners.club/wp-content/uploads/2015/12/ERC-Logo-Round-150.gif)<br>
-## [Erie Runners Club](https://erierunners.club/ " Line to Erie Runners Club")<br><br>
+## [Erie Runners Club](https://erierunners.club/ "Link to Erie Runners Club")<br><br>
 
 ![alt text](http://www.highmarkquad.org/wp-content/themes/erieYMCA-child/images/quad-logo.png)<br>
 ## [Highmark Quad Games](http://www.highmarkquad.org/ "Link to Highmark Quad Games ")<br><br>
