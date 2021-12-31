@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Main Picture"
+git commit -m "Update Local Clubs with NAMBA"
 
 git push -u origin master
 
