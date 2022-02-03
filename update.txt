@@ -1,9 +1,9 @@
 git add --all
 
-git commit -m "Update upcomming event time"
+git commit -m "Update Events for Feb."
 
 git push -u origin master
 
 
 
-Jan 07, 2021
+Feb 02, 2021
