@@ -7,3 +7,6 @@ git push -u origin master
 
 
 Feb 02, 2021
+
+
+pictures need to be huge thumbnail
