@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update Events for Feb."
+git commit -m "Update bog for Facebook."
 
 git push -u origin master
 
 
 
-Feb 02, 2021
+March 09, 2022
 
 
 pictures need to be huge thumbnail

@@ -1,9 +1,13 @@
 ---
-layout: post
-title:  "The 2022 Cherry Pie Hike"
+layout: post1
+title: "The 2022 Cherry Pie Hike"
+date:  2022-02-20
 categories: hiking
-date:   2022-02-20
-permalink: /post-02-20-22/
+permalink: /post-02-21-22/
+img:
+ path: https://i.imgur.com/4IMcjX4h.jpg
+ width: 1200
+ height: 630
 ---
 
 <table border="0" cellpadding="0">
