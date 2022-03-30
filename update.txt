@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update Membership App"
+git commit -m "Update Local Trail on navbar"
 
 git push -u origin master
 
 
 
-March 09, 2022
+March 30, 2022
 
 
 pictures need to be huge thumbnail
