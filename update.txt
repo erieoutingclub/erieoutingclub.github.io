@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update Local Trail on navbar"
+git commit -m "Update cyclig Page"
 
 git push -u origin master
 
 
 
-March 30, 2022
+April 15, 2022
 
 
-pictures need to be huge thumbnail
+update local trails
