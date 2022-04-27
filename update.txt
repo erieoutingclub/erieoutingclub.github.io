@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update cyclig Page"
+git commit -m "Update Events and Navbar"
 
 git push -u origin master
 
 
 
-April 15, 2022
+April 27, 2022
 
 
 update local trails
