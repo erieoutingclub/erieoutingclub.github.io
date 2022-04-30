@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update Events and Navbar"
+git commit -m "Update cycling page with links"
 
 git push -u origin master
 
 
 
-April 27, 2022
+April 30, 2022
 
 
 update local trails
