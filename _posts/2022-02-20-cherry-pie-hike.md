@@ -10,6 +10,7 @@ img:
  height: 630
 ---
 
+
 <table border="0" cellpadding="0">
   <caption><strong>The 2022 Cherry Pie Hike-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
   <tr>
@@ -78,7 +79,3 @@ Kit</a></font></p>
   <p>The Cover Bridge was close to traffic, but you could walk through it. Covered Bridge (1875): 86-ft. wood lattice truss bridge built by brothers Charles and James Phelps.</p><br>
 <br>
 <br>
-
-
-
-
