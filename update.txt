@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update cycling page with links"
+git commit -m "Update Blog with EOC Paddle"
 
 git push -u origin master
 
