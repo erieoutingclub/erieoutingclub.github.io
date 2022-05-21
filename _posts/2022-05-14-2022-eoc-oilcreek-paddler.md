@@ -14,7 +14,6 @@ img:
 
 
 <table border="0" cellpadding="0">
-  <caption><strong>The 2022 Cherry Pie Hike-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
   <tr>
     <td width="100%"><img src="https://i.imgur.com/VdNBew1h.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
   </tr>
