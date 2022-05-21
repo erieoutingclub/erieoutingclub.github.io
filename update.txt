@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update Blog with EOC Paddle"
+git commit -m "Update local Bike Ride on Cycling page"
 
 git push -u origin master
 
 
 
-May 1, 2022
+May 21, 2022
 
 
 update local trails
