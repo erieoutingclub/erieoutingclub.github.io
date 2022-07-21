@@ -1,6 +1,6 @@
 ---
 layout: post1
-title: "The Surgar Lake Paddle"
+title: "The Sugar Lake Paddle"
 date:  2022-07-20
 categories: kayakng
 permalink: /post-07-20-22/
@@ -8,7 +8,7 @@ permalink: /post-07-20-22/
 
 
 <table border="0" cellpadding="0">
-  <caption><strong>The Surgar Lake Paddle-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
+  <caption><strong>The Sugar Lake Paddle-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
   <tr>
     <td width="100%"><img src="https://i.imgur.com/QsbuDTQh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
   </tr>
