@@ -1,12 +1,12 @@
 git add --all
 
-git commit -m "Update local Bike toures on Cycling page"
+git commit -m "Update Surgar Lake Paddle"
 
 git push -u origin master
 
 
 
-May 21, 2022
+June 20, 2022
 
 
 update cycling page

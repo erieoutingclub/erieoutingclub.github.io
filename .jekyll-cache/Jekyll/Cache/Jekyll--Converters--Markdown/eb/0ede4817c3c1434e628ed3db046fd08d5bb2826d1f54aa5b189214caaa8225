@@ -1,0 +1,84 @@
+I"1<table border="0" cellpadding="0">
+  <caption><strong>The 2022 Cherry Pie Hike-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
+  <tr>
+    <td width="100%"><img src="https://i.imgur.com/QsbuDTQh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
+  </tr>
+  <tr>
+    <td width="100%"><form method="POST" name="rotater">
+      <div align="center"><center><p><script language="JavaScript1.1">
+var photos=new Array()
+var which=0
+
+/*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
+photos[0]="https://i.imgur.com/QsbuDTQh.jpg"
+photos[1]="https://i.imgur.com/6726e1ih.jpg"
+photos[2]="https://i.imgur.com/3b2C9pmh.jpg"
+photos[3]="https://i.imgur.com/IQZsWdeh.jpg"
+photos[4]="https://i.imgur.com/8p6zC2qh.jpg"
+photos[5]="https://i.imgur.com/uMaqMQlh.jpg"
+photos[6]="https://i.imgur.com/vcKWStMh.jpg"
+photos[7]="https://i.imgur.com/4ttkL6Gh.jpg"
+photos[8]="https://i.imgur.com/MKD68yYh.jpg"
+photos[9]="https://i.imgur.com/1W1P4Peh.jpg"
+photos[10]="https://i.imgur.com/f71HITvh.jpg"
+photos[11]="https://i.imgur.com/gmPMdiAh.jpg"
+photos[12]="https://i.imgur.com/7G61Ftjh.jpg"
+photos[13]="https://i.imgur.com/vIE20Bzh.jpg"
+photos[14]="https://i.imgur.com/ZKvGoTUh.jpg"
+
+
+
+
+
+
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which]
+}
+}
+
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+}
+else window.status='End of gallery'
+}
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><font face="arial" size="-2">This free script provided by</font><br />
+<font face="arial, helvetica" size="-2"><a href="http://javascriptkit.com">JavaScript
+Kit</a></font></p>
+
+<p>  The uniform  the day was long sleeves and panama hats. It wasn't especially hot but the
+sun was strong enough to fry exposed flesh.
+   In addition to Y/T, Alice, Shirley, Milt, Bob S.,,Brenxda S., Mary, Steve, Kathy, David, Janet
+and Judy Y. , we enjoyed the company of new SBW Peggy..</p>
+<p><br /></p>
+
+<p> The F&amp;G access was super with a fine gravel bottom on a very gentle slope. But the parking lot sucks
+with most of the lot taken up with trucks and trailers.
+   The trek to the beaver dam was sorta short, prompting Shirly to mention that the paddle should
+at least be as long as trip to the put-in.</p>
+<p><br /></p>
+
+<p>The dam is still there and low enough (2ft.) to allow passage over, but that would raise the problem
+of climbing over it on the return. We let the beavers alone and saved them a repair job.
+   Now there's no reason to hit a rock on the lake or the swamp, but I did. Other paddlers told
+the group to stay right but I was too interested in The Church of the Double Blade 
+  and missed the warnings. Fugly now has a fresh divot in her bottom.</p>
+<p>The folks who dined apres paddle found J.Is' to be as good as any and better than most. Their
+menu includs a great variety of $6 appetizers along with reasonably priced entrees.  -Rog</p>
+<p><br /></p>
+
+<p><br />
+<br /></p>
+:ET
