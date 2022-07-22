@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Surgar Lake Paddle"
+git commit -m "pdate cycling page with Pedal for Mercy"
 
 git push -u origin master
 
@@ -9,4 +9,4 @@ git push -u origin master
 June 20, 2022
 
 
-update cycling page
+update cycling page with Pedal for Mercy
