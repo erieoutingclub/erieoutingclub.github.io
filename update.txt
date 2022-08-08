@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "pdate cycling page with Pedal for Mercy"
+git commit -m "update Youtube image and Ride for the Refuge"
 
 git push -u origin master
 
@@ -9,5 +9,5 @@ git push -u origin master
 June 20, 2022
 
 
-update cycling page with Pedal for Mercy
-update backup July 22,2022
+update YouTube button and ride for the refuge
+update backup Aug 08,2022
