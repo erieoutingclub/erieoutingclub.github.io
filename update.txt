@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update Youtube image and Ride for the Refuge"
+git commit -m "update Blog with Kayaking the Lagoons"
 
 git push -u origin master
 
