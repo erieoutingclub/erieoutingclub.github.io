@@ -10,7 +10,7 @@ permalink: /post-08-21-22/
 
 
 <table border="0" cellpadding="0">
-  <caption><strong>Kayaking Lagoons at Presque Isle-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
+  <caption><strong>Erie Outing Club Summer Picnic-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
   <tr>
     <td width="100%"><img src="https://i.imgur.com/XSSmLoEh.jpg" width="960" height="720" class="responsive" name="photoslider"></td>
   </tr>
