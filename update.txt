@@ -6,8 +6,7 @@ git push -u origin master
 
 
 
-June 20, 2022
 
 
-update YouTube button and ride for the refuge
-update backup Aug 08,2022
+update Blog with Summer Picnic
+update backup Aug 21,2022
