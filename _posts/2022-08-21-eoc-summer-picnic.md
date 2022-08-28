@@ -3,7 +3,7 @@ layout: post1
 title: "Erie Outing Club Summer Picnic"
 date:  2022-08-21
 categories: picnic
-description: "The 2022 Summer Picnic the Pennsula"
+description: "The 2022 Summer Picnic the Erie Runner's Club Pavilion"
 image: https://i.imgur.com/XSSmLoEh.jpg
 permalink: /post-08-21-22/
 ---
