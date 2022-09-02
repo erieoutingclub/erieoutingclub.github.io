@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update Blog with Kayaking the Lagoons"
+git commit -m "update Navbar with Facebook Group"
 
 git push -u origin master
 
@@ -10,3 +10,4 @@ git push -u origin master
 
 update Blog with Summer Picnic faceobook metatags
 update backup Aug 21,2022
+update Navbar with Facebook Group. Sept. 2, 2022
