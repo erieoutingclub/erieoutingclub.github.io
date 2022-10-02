@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update Navbar with Facebook Group"
+git commit -m "update youube videto to Summer Picnic Post"
 
 git push -u origin master
 
@@ -8,6 +8,6 @@ git push -u origin master
 
 
 
-update Blog with Summer Picnic faceobook metatags
+update  Youtube video to to Summer Picnic Post Oct.2 2022
 update backup Aug 21,2022
 update Navbar with Facebook Group. Sept. 2, 2022
