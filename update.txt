@@ -1,13 +1,9 @@
 git add --all
 
-git commit -m "update youube videto to Summer Picnic Post"
+git commit -m "update membership App"
 
 git push -u origin master
 
 
 
-
-
-update  Youtube video to to Summer Picnic Post Oct.2 2022
-update backup Aug 21,2022
-update Navbar with Facebook Group. Sept. 2, 2022
+update Membership Appp Dec

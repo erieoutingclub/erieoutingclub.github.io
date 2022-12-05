@@ -13,7 +13,7 @@ permalink: /post01-02/
 
 
 
-Earl Cardot Eastside Overland Trail is a 17.5 mile long. The Earl Cardot Eastside Overland Trail extends from the Twenty Eighth Creek Road in the Gerry, New York and proceeds north for 19 miles to the Canadaway Creek in the Town of Arkwright.
+Earl Cardot Eastside Overland Trail is a 17.5 mile long. The Earl Cardot Eastside Overland Trail extends from the Twenty Eighth Creek Road in the Gerry, New York and proceeds north for 19 miles to the Canadaway Creek in the Town of Arkwright..
 
 ![alt text](https://i.imgur.com/6s12OiOl.jpg)
 
