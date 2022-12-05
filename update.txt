@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update membership App"
+git commit -m "update membership App22"
 
 git push -u origin master
 
