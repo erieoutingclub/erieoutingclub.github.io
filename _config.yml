@@ -10,5 +10,9 @@ collections:
   hiking:
     output: true
     permalink: /hiking/:path/
+  outdooressentials :
+    output: true
+    permalink: /hiking/:path/
+
 
 

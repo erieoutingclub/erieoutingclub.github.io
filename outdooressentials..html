@@ -1,0 +1,10 @@
+---
+layout: outdooressentialsdefault
+title: "Cycling"
+---
+
+
+{% for item in site.outdooressentials %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+{% endfor %}
