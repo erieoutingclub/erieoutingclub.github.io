@@ -18,4 +18,15 @@
       {% endtablerow %}
     {% endfor %}
   </table>
+  <br>
+  <br>
+  <h2>Outdoor Essentials Articles</h2>
+  <br>
+  {% for outdooressentials in site.outdooressentials %}
+  <h2><a href="{{ outdooressentials.url }}">{{ outdooressentials.title }}</a></h2>
+  <p>{{ outdooressentials.description }}</p>
+{% endfor %}
+  
 </div>
+ 
+

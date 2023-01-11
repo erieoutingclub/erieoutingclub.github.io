@@ -5,7 +5,7 @@ date:  2023-01-08
 categories: picnic
 description: "On a recent hike at Scott Park, a 108-acre park in Millcreek, Pennsylvania, an enthusiastic group of Erie Outing Club members of over 10 people and two dogs (Ralph and another Dog) gathered to explore the area and its trails."
 image: https://i.imgur.com/iWBKiHMh.jpg
-permalink: /post-08-21-22/
+permalink: /post-01-08-22/
 ---
 
 

@@ -3,7 +3,7 @@ layout: post1
 title: "The Joys of Lake and River Kayaking in Erie County, Pa"
 date:  2023-01-07
 categories: kayak
-description: "Kayaking is a popular water sport that allows you to explore the beauty of rivers, lakes, and coastal waters while also providing a great workout. While both lake and river kayaking can be enjoyable experiences, they do have some differences that you should consider when deciding where to go."
+description: "Kayaking is a popular water sport that allows you to explore the beauty of rivers, lakes, and coastal waters while also providing a great workout."
 image: https://i.imgur.com/iVb94Jd.jpg
 permalink: outdooressentials/kayaking/
 ---

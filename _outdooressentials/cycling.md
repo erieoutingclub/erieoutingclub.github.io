@@ -3,7 +3,7 @@ layout: post1
 title: "The Joys of Riding a Bicycle in Erie County, Pa ."
 date:  2023-01-08
 categories: kayak
-description: "Erie County, Pennsylvania is a fantastic place for cycling enthusiasts, and Presque Isle is a particularly popular destination. On Thursday and Sunday nights, you can join in on the fun by participating in the slow rolls in the Erie Down Town Area.  On Thursdays night the Slow roll meets at 6:00p.m at Perry Square. The Sunday Slow roll meet at Frontier Park at 12:00 noon."
+description: "Erie County, Pennsylvania is a fantastic place for cycling enthusiasts, and Presque Isle is a particularly popular destination."
 image: https://i.imgur.com/iVb94Jd.jpg
 permalink: outdooressentials/cycling/
 ---
