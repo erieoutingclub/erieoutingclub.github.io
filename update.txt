@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update Hike at Scott Park"
+git commit -m "update Hike Link and Outdoor essentials"
 
 git push -u origin master
 
@@ -9,3 +9,4 @@ git push -u origin master
 update Membership Appp Dec
 update outdoor essentials  Jan
 fix update outdooressentials January 10, 2023
+fix update outdooressentials January 11, 2023
