@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update outdoor essentials"
+git commit -m "update Hike at Scott Park"
 
 git push -u origin master
 
