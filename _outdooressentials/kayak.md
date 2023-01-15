@@ -3,7 +3,7 @@ layout: post1
 title: "The Joys of Lake and River Kayaking in Erie County, Pa"
 date:  2023-01-07
 categories: kayak
-description: "Kayaking is a popular water sport that allows you to explore the beauty of rivers, lakes, and coastal waters while also providing a great workout."
+description: "Kayaking is a popular water sport that allows you to explore the beauty of rivers, lakes, and coastal waters while also providing a great workout.updated 01/15/2023"
 image: https://i.imgur.com/iVb94Jd.jpg
 permalink: outdooressentials/kayaking/
 ---
@@ -35,10 +35,6 @@ Another great place to go sea kayaking in Erie County is the French Creek. This 
 <br>
 <br>
 
-## Sea Kayaking on Creeks and Rivers
 
-Finally, the creeks and rivers in Erie County are also great places to go sea kayaking. Whether you're a beginner or an experienced paddler, these waterways offer something for everyone. From the gentle flow of Walnut Creek to the rushing rapids of Elk Creek, there's a kayaking route to suit every skill level.
-
-In conclusion, sea kayaking in Erie County, Pennsylvania is a wonderful way to experience the beauty of nature and connect with the outdoors. Whether you're paddling through serene lakes or navigating through rushing rapids, the joys of sea kayaking are endless.
 <br>
 <br>

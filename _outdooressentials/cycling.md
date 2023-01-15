@@ -3,7 +3,7 @@ layout: post1
 title: "The Joys of Riding a Bicycle in Erie County, Pa ."
 date:  2023-01-08
 categories: kayak
-description: "Erie County, Pennsylvania is a fantastic place for cycling enthusiasts, and Presque Isle is a particularly popular destination."
+description: "Erie County, Pennsylvania is a fantastic place for cycling enthusiasts, and Presque Isle is a particularly popular destination. updated 01/15/2023"
 image: https://i.imgur.com/iVb94Jd.jpg
 permalink: outdooressentials/cycling/
 ---
