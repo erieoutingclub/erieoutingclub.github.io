@@ -96,33 +96,19 @@ This park offers a unique hiking experience, with its steep cliffs and rugged te
 Overall, Erie County offers a variety of hiking options for visitors, from the peaceful nature trails to the rugged terrain and stunning views. Whether you're looking for a leisurely stroll or a challenging hike, you're sure to find a trail that suits your needs in Erie County.
 
 <br>
-
 <br>
 
 ## Cherry Pie Hikes
+
+**George Washington Cherry Pie Walk**  - Sunday, February 19 - Fort LeBoeuf, Waterford, PA. Meet at the Fort LeBoeuf French & Indian War Museum at Noon. The 3 mile walk travels out to the historic covered bridge, returning back to the museum through the cemetery [stopping briefly at the gravesite of Micheal Hare]; or a shorter 1 mile walk makes a loop throughout the town past historic sites & homes. Complimentary refreshments of Cherry Pie & hot beverages will be served at the end of each walk. Questions: Donald Pearce at  [pearcehistory1753@gmail.com](mailto:pearcehistory1753@gmail.com)  or text (814)860-0221  
+
 <br>
 <br>
-
-The Saegertown Heritage Society is excited to announce a special event to celebrate George Washington's birthday on Presidents Day Febuary 25,2023. Join them for the Cherry Pie Hike, a guided walk around town to learn about Washington's connections to the area. The hike will begin at 1:30 p.m. at the museum located at 320 Broad St.
-
   
-
-The hike will last for about half an hour and afterwards, at 2:15 p.m. there will be a presentation about Washington's journey to Fort LeBoeuf in 1753 at the museum. After the presentation, refreshments and cherry pie will be served. Even if you choose not to go on the hike, you are still welcome to join us for the presentation and refreshments. This event is free and open to the public. The Heritage Society also plans to commemorate Washington's trip with a historical sign, which will be revealed at a later date.
-
+**2nd Annual Cherry Pie Hike** - February 20 - Saegertown, PA. Meet at the Museum, 320 Broad St, Saegertown, at 11 AM to join a guided walk to spots associated with young George Washington's 1753 mission, followed by a slice of cherry pie! Free. Reservations not needed. Sponsored by the Saegertown Heritage Society, ph. (814) 763-4101.  
 <br>
-
 <br>
-
   
-
-## Cherry Pie Hikes at the Jennings Environmental Education Center near Slippery Rock
-
   
-
-<br>
-
-<br>
-
-  
-
-Come hike with us on February 25th at the Jennings Environmental Education Center near Slippery Rock for our 20th Annual Cherry Pie Hike! Enjoy a 7-mile hike on the North Country Trail or pick from two nature walks in the state park or six history hikes. Meet George Washington, history authors Jason Cherry and Brady Crytzer and interact with French and Indian War reenactors. End your hike with a delicious cherry pie. Reservations are required and a cash donation is appreciated. The long hike starts at 9am under the 528 bridge. Reserve your spot now. [Click here](https://events.dcnr.pa.gov/event/900am_washingtoncherry_pie_long_hike_on_the_north_country_trail_3763#.Y8QbXtLMJkg).
+**20th Annual Cherry Pie Hike** - February 25 - Jennings Environmental Education Center near Slippery Rock. Take a 7-mile hike on the North Country Trail or choose between two nature walks in the state park or six history hikes. Meet George Washington or history authors Jason Cherry and Brady Crytzer, visit with French and Indian War reenactors, and eat cherry pie! Reservations are required. Cash donation. (photo by Darl Black)  
+[https://events.dcnr.pa.gov/jenning.../calendar/day/2023/2/25](https://events.dcnr.pa.gov/jenning.../calendar/day/2023/2/25)
