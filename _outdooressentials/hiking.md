@@ -111,4 +111,4 @@ Overall, Erie County offers a variety of hiking options for visitors, from the p
   
   
 **20th Annual Cherry Pie Hike** - February 25 - Jennings Environmental Education Center near Slippery Rock. Take a 7-mile hike on the North Country Trail or choose between two nature walks in the state park or six history hikes. Meet George Washington or history authors Jason Cherry and Brady Crytzer, visit with French and Indian War reenactors, and eat cherry pie! Reservations are required. Cash donation. (photo by Darl Black)  
-[https://events.dcnr.pa.gov/jenning.../calendar/day/2023/2/25](https://events.dcnr.pa.gov/jenning.../calendar/day/2023/2/25)
+[Jennings_Environmental_Education_Center](https://events.dcnr.pa.gov/jennings_environmental_education_center/calendar/day/2023/2/25?fbclid=IwAR0kjkkxrmkSwX6GTc9L9ihNm8SNzcRRiCPb2H7ziSfINTjFZty6rgwgKP4)
