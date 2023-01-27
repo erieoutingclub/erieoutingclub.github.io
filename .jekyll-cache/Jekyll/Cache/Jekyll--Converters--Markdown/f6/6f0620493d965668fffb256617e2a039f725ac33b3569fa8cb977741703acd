@@ -1,0 +1,47 @@
+I"	<table border="0" cellpadding="0">
+  <caption><strong>Erie Outing Club Hike at Scott Park-Scroll Down and hit the Next button to view slide show,read the story below.</strong></caption>
+  <tr>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6cvBBQFsT_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+    <td width="100%"><img src="https://i.imgur.com/iWBKiHMh.jpg" width="960" height="720" class="responsive" name="photoslider" /></td>
+  </tr>
+  <tr>
+    <td width="100%"><form method="POST" name="rotater">
+      <div align="center"><center><p><script language="JavaScript1.1">
+var photos=new Array()
+var which=0
+
+/*Change the below variables to reference your own images. You may have as many images in the slider as you wish*/
+photos[0]="https://i.imgur.com/iWBKiHMh.jpg"
+photos[1]="https://i.imgur.com/jXJT4uwh.jpg"
+photos[2]="https://i.imgur.com/VI9OTmRh.jpg"
+
+
+function backward(){
+if (which>0){
+window.status=''
+which--
+document.images.photoslider.src=photos[which]
+}
+}
+
+function forward(){
+if (which<photos.length-1){
+which++
+document.images.photoslider.src=photos[which]
+}
+else window.status='End of gallery'
+}
+</script><input type="button" value="&lt;&lt;Back" name="B2" onclick="backward()" /> <input type="button" value="Next&gt;&gt;" name="B1" onclick="forward()" /><br />
+      <a href="#" onclick="which=1;backward();return false"><small>Start Over</small></a></p>
+      </center></div>
+    </form>
+    </td>
+  </tr>
+</table>
+<p>On a recent hike at Scott Park, a 108-acre park in Millcreek, Pennsylvania, an enthusiastic group of Erie Outing Club members of over 10 people and two dogs (Ralph and another Dog) gathered to explore the area and its trails.</p>
+
+<p>The group ventured to the North End of the park and enjoyed the stunning views of Presque Isle Bay and the Peninsula. There were wide and narrow trails, offering different experiences, and a Fitness Trail for those who wanted to get a workout in while admiring the beauty of the park.</p>
+
+<p>Wildlife, birds, and wildflowers were just some of the things the group encountered on their hike. Scott Park is a great destination for a day of exploration and outdoor fun.</p>
+
+:ET

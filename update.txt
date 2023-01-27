@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "update Cherry Pie Hikes"
+git commit -m "Update Blog with Allegheny State Park Weekend"
 
 git push -u origin master
 
