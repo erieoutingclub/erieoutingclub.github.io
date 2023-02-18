@@ -520,4 +520,11 @@ div.post {
   float: left;
 }
 
+.calendar {
+  font-family: Arial, sans-serif;
+  font-size: 1.9em; /* 40px/16=2.5em */
+  color: rgb(black);
+}
+}
+
 
