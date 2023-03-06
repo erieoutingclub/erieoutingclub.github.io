@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Blog with Allegheny State Park Weekend"
+git commit -m "Update Ashtabula Bike Club calendar"
 
 git push -u origin master
 
