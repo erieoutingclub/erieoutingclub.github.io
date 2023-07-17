@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Ashtabula Bike Club calendar"
+git commit -m "Update Cycling Page"
 
 git push -u origin master
 
