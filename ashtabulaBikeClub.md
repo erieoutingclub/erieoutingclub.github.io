@@ -7,6 +7,10 @@ permalink: /ashtabulabikeclubcalendar
 **2023**  
 **Ashtabula Bicycle Club Calendar**
 
+[Ashtabula Bike Club]([Ashtabula Bike Club](https://windstream.us5.list-manage.com/track/click?u=ea08369770202f5c9cb3274e8&id=c51b0119fb&e=574bbc4597)  
+  )  
+  
+
 -   **April Spring Warm UP Rides start at**
 
   
@@ -39,7 +43,8 @@ permalink: /ashtabulabikeclubcalendar
   
 Looking forward to seeing everyone.  
 We will follow Covid guidelines.  
-Masks are not indicated while riding bicycles.  
+Masks are not indicated while riding bicycles. 
+<br><br> 
   
 [Map to Austinburg Trailhead of the WRGT](https://windstream.us5.list-manage.com/track/click?u=ea08369770202f5c9cb3274e8&id=c51b0119fb&e=574bbc4597)  
   
@@ -52,8 +57,7 @@ When I am in town, I usually arrive at 4, and ride north on the trail.
 I circle back every hour  
 to pick up interested riders.  
 It still gets dark early, and can be cold.  
-My e mail is: [nancyvallen@windstream.net](mailto:nancyvallen@windstream.net)  
-Phone is: 440-855-1017  
+ 
 Please feel free to share ride calendar information,  
 and my contact info with anyone interested in receiving e mail notifications.  
   
