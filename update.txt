@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update Cycling Page"
+git commit -m "Update About on Main Page"
 
 git push -u origin master
 
