@@ -525,6 +525,12 @@ div.post {
   font-size: 1.9em; /* 40px/16=2.5em */
   color: rgb(black);
 }
+
+
+.about {
+  float: left;
+  text-align: left;
+
 }
 
 
