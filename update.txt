@@ -1,6 +1,6 @@
 git add --all
 
-git commit -m "Update year"
+git commit -m "update first Day Hike"
 
 git push -u origin master
 
