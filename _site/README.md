@@ -1,1 +1,0 @@
-**Erie Outing Club Website**
